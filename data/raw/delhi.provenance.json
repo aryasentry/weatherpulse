@@ -1,0 +1,27 @@
+{
+  "city": {
+    "name": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "rows": 43824,
+  "retrieved_at": "2026-10-08T15:29:59.532695+00:00",
+  "request_url": "https://archive-api.open-meteo.com/v1/archive?latitude=28.6139&longitude=77.209&start_date=2021-01-01&end_date=2025-12-31&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cwind_speed_10m&timezone=Asia%2FKolkata&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "source_url": "https://open-meteo.com/en/docs/historical-weather-api",
+  "license": "CC BY 4.0",
+  "attribution": "Weather data by Open-Meteo; ERA5 reanalysis by Copernicus Climate Change Service (C3S) / ECMWF",
+  "model": "era5",
+  "timezone": "Asia/Kolkata",
+  "hourly_units": {
+    "time": "iso8601",
+    "temperature_2m": "\u00b0C",
+    "relative_humidity_2m": "%",
+    "precipitation": "mm",
+    "wind_speed_10m": "km/h"
+  },
+  "grid_latitude": 28.5,
+  "grid_longitude": 77.25,
+  "sha256": "eb6f418a9bd4b949d0b76d9542b67e4d7f757981b9f3ad7a4af0a05df547cc56"
+}

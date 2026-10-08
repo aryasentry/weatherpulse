@@ -1,0 +1,98 @@
+{
+  "title": "Weather Data Analysis",
+  "source": "Open-Meteo ERA5 hourly reanalysis",
+  "source_url": "https://open-meteo.com/en/docs/historical-weather-api",
+  "license": "CC BY 4.0",
+  "data_kind": "reanalysis",
+  "timezone": "Asia/Kolkata",
+  "generated_at": "2026-10-08T15:32:01.440987+00:00",
+  "engine": "pandas + Apache Parquet (PyArrow)",
+  "duration_seconds": 1.971,
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "total_records": 438240,
+  "city_count": 10,
+  "target_records": 438240,
+  "quality": {
+    "input_rows": 438240,
+    "clean_rows": 438240,
+    "duplicates_removed": 0,
+    "invalid_rows": 0,
+    "missing_values": 0
+  },
+  "dataset_sha256": "66fc7239f526fde047a86e15cae21984473cad1d6689d7db539715d207fcd4e7",
+  "raw_files": [
+    {
+      "name": "ahmedabad.csv",
+      "sha256": "0c69bd5f9ccd81602cd5a14781a2b4abb217c5939c3b7a2ec0b26f80614f5ca6"
+    },
+    {
+      "name": "bengaluru.csv",
+      "sha256": "5f554e39f4f5133ea4e2ab7ea9afd9c33bffb5bf23759fafe59ee55d4a6c3ee9"
+    },
+    {
+      "name": "chennai.csv",
+      "sha256": "ff4ac895b0b48a0d8572800f0e29daa4093edb7de15aa9bd14399f5884a86540"
+    },
+    {
+      "name": "delhi.csv",
+      "sha256": "eb6f418a9bd4b949d0b76d9542b67e4d7f757981b9f3ad7a4af0a05df547cc56"
+    },
+    {
+      "name": "hyderabad.csv",
+      "sha256": "37f37314867de702b01fb4a0f61ba039823cb216d42837ce007aca32f4ad3d8f"
+    },
+    {
+      "name": "jaipur.csv",
+      "sha256": "e8994812318a16ced856fe0a319c27317f44ba2e2fd58cdf92e83d2525f205a7"
+    },
+    {
+      "name": "kolkata.csv",
+      "sha256": "44ce3dd13f26951ff6baa8e45049e7887e4c0ed2ba55bf416bc6524dc0f8d778"
+    },
+    {
+      "name": "lucknow.csv",
+      "sha256": "ae064280e14b7a15e1ddb2c7fa3601f6476e8c99ae76fb4001ee32ebb58f7b1c"
+    },
+    {
+      "name": "mumbai.csv",
+      "sha256": "0670004c34b674485f900c80bfa5bf7365492cc842f6c6b4275a2dbf1ecd337a"
+    },
+    {
+      "name": "pune.csv",
+      "sha256": "47c1848b777492df2dc3cf536bfc27002706dbccb4d0f6368042b38d35eea306"
+    }
+  ],
+  "steps": [
+    {
+      "name": "Ingest",
+      "status": "complete",
+      "detail": "10 cached real Open-Meteo city CSVs; per-city request provenance retained."
+    },
+    {
+      "name": "Validate",
+      "status": "complete",
+      "detail": "0 invalid rows rejected; 0 missing metric cells counted."
+    },
+    {
+      "name": "Deduplicate",
+      "status": "complete",
+      "detail": "0 city/time duplicates removed."
+    },
+    {
+      "name": "Store",
+      "status": "complete",
+      "detail": "438,240 cleaned hourly rows written to compressed Parquet."
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "weather.parquet",
+      "description": "Validated hourly reanalysis data, compressed with Zstandard"
+    },
+    {
+      "name": "manifest.json",
+      "description": "Counts, quality checks, source attribution and dataset checksums"
+    }
+  ]
+}

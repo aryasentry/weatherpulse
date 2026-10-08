@@ -1,0 +1,59 @@
+{
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "target_rows": 438240,
+  "actual_rows": 438240,
+  "cities": [
+    {
+      "city": "Delhi",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Hyderabad",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Mumbai",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Bengaluru",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Chennai",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Kolkata",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Pune",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Ahmedabad",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Jaipur",
+      "rows": 43824,
+      "cached": false
+    },
+    {
+      "city": "Lucknow",
+      "rows": 43824,
+      "cached": false
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,24 @@
+{
+  "status": "verified",
+  "parity_passed": true,
+  "dataset_sha256": "66fc7239f526fde047a86e15cae21984473cad1d6689d7db539715d207fcd4e7",
+  "generated_at": "2026-10-08T15:32:19.110950+00:00",
+  "master": "local[2]",
+  "engine": "Apache Spark 4.0.1 (local[2])",
+  "input_rows": 438240,
+  "clean_rows": 438240,
+  "city_count": 10,
+  "monthly_groups": 600,
+  "query": "SELECT city, date_format(time, 'yyyy-MM') AS month,\n       COUNT(*) AS records, AVG(temperature) AS temperature,\n       SUM(precipitation) AS precipitation, AVG(humidity) AS humidity,\n       AVG(wind_speed) AS wind_speed\nFROM weather\nGROUP BY city, date_format(time, 'yyyy-MM')\nORDER BY city, month",
+  "comparison": {
+    "passed": true,
+    "groups_compared": 600,
+    "metrics_per_group": 5,
+    "errors": []
+  },
+  "artifacts": [
+    "spark_monthly.parquet"
+  ],
+  "note": "Real local Spark SQL computation; aggregate results serialized with PyArrow. Single-machine execution, no HDFS or distributed cluster.",
+  "duration_seconds": 14.105
+}

@@ -1,0 +1,36 @@
+name: Native Windows and macOS
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  native:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, macos-latest]
+        python: ['3.11', '3.12', '3.13']
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}/Weather Data Analysis
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: Weather Data Analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Standard-library project setup
+        run: python setup.py
+      - name: Windows analytical and launcher tests
+        if: runner.os == 'Windows'
+        run: .\.venv\Scripts\python.exe -m pytest -q
+      - name: macOS analytical and launcher tests
+        if: runner.os == 'macOS'
+        run: .venv/bin/python -m pytest -q
+      - name: Actual bundled application startup and shutdown
+        run: python scripts/smoke_test.py

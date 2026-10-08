@@ -1,0 +1,2 @@
+# Optional native Spark processing. Install Java 17 or 21 first.
+pyspark==4.0.1

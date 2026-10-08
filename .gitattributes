@@ -1,0 +1,12 @@
+# Keep checksummed data identical on Windows and macOS.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.csv -text
+*.parquet binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+# Generated framework assets and the retained execution log keep their bytes.
+frontend/out/** -whitespace linguist-generated=true
+data/processed/hadoop-job.log -whitespace linguist-generated=true

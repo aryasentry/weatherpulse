@@ -1,0 +1,5402 @@
+[
+  {
+    "city": "Ahmedabad",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 19.30349462365591,
+    "humidity": 63.55510752688172,
+    "precipitation": 0.0,
+    "wind_speed": 8.522311827956981
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 22.541964285714272,
+    "humidity": 55.42857142857143,
+    "precipitation": 0.0,
+    "wind_speed": 8.116964285714282
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 27.89005376344087,
+    "humidity": 44.380376344086024,
+    "precipitation": 0.0,
+    "wind_speed": 7.546774193548387
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 31.59500000000005,
+    "humidity": 40.140277777777776,
+    "precipitation": 2.0,
+    "wind_speed": 7.9040277777777685
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 32.36317204301074,
+    "humidity": 56.344086021505376,
+    "precipitation": 86.7,
+    "wind_speed": 10.988037634408593
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 31.629444444444452,
+    "humidity": 67.1375,
+    "precipitation": 82.09999999999998,
+    "wind_speed": 11.436527777777787
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 30.43185483870967,
+    "humidity": 74.58198924731182,
+    "precipitation": 162.90000000000006,
+    "wind_speed": 12.953091397849459
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 29.559677419354895,
+    "humidity": 74.41397849462365,
+    "precipitation": 41.499999999999986,
+    "wind_speed": 9.96223118279569
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 28.272361111111096,
+    "humidity": 86.66527777777777,
+    "precipitation": 283.8999999999998,
+    "wind_speed": 8.265277777777776
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 28.11599462365591,
+    "humidity": 68.63306451612904,
+    "precipitation": 3.1,
+    "wind_speed": 6.695564516129034
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 24.1913888888889,
+    "humidity": 56.30138888888889,
+    "precipitation": 5.200000000000001,
+    "wind_speed": 10.551111111111103
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 20.35403225806453,
+    "humidity": 63.219086021505376,
+    "precipitation": 7.599999999999998,
+    "wind_speed": 10.15658602150538
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 18.631182795698898,
+    "humidity": 65.61021505376344,
+    "precipitation": 6.799999999999997,
+    "wind_speed": 9.30268817204301
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 22.252380952380946,
+    "humidity": 55.080357142857146,
+    "precipitation": 0.0,
+    "wind_speed": 8.033333333333326
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 28.305913978494594,
+    "humidity": 41.72715053763441,
+    "precipitation": 0.0,
+    "wind_speed": 8.940591397849468
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 32.08166666666664,
+    "humidity": 40.40833333333333,
+    "precipitation": 0.0,
+    "wind_speed": 8.747361111111113
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 33.8962365591398,
+    "humidity": 49.58064516129032,
+    "precipitation": 0.0,
+    "wind_speed": 11.501612903225803
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 33.39430555555554,
+    "humidity": 58.893055555555556,
+    "precipitation": 11.199999999999996,
+    "wind_speed": 12.407222222222215
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 28.877284946236514,
+    "humidity": 83.59811827956989,
+    "precipitation": 247.69999999999925,
+    "wind_speed": 10.125134408602154
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 28.803225806451568,
+    "humidity": 82.75,
+    "precipitation": 173.2999999999995,
+    "wind_speed": 9.620564516129042
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 29.452361111111102,
+    "humidity": 76.79722222222222,
+    "precipitation": 94.4999999999999,
+    "wind_speed": 7.501249999999988
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 28.279166666666676,
+    "humidity": 59.15860215053763,
+    "precipitation": 19.500000000000007,
+    "wind_speed": 7.7170698924731145
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 24.750277777777814,
+    "humidity": 53.92916666666667,
+    "precipitation": 0.0,
+    "wind_speed": 8.082916666666657
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 22.17244623655915,
+    "humidity": 55.72043010752688,
+    "precipitation": 0.0,
+    "wind_speed": 8.899059139784944
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 19.121774193548386,
+    "humidity": 57.52956989247312,
+    "precipitation": 3.1,
+    "wind_speed": 10.116263440860196
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 23.55193452380951,
+    "humidity": 51.3125,
+    "precipitation": 0.0,
+    "wind_speed": 7.846130952380949
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 27.000268817204333,
+    "humidity": 49.266129032258064,
+    "precipitation": 7.499999999999999,
+    "wind_speed": 7.572983870967753
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 30.867361111111105,
+    "humidity": 41.675,
+    "precipitation": 8.1,
+    "wind_speed": 8.389861111111099
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 33.18642473118279,
+    "humidity": 48.82392473118279,
+    "precipitation": 4.899999999999999,
+    "wind_speed": 10.227419354838712
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 32.031388888888884,
+    "humidity": 65.58472222222223,
+    "precipitation": 123.69999999999983,
+    "wind_speed": 14.270000000000005
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 29.57647849462364,
+    "humidity": 83.19354838709677,
+    "precipitation": 289.39999999999935,
+    "wind_speed": 9.422580645161291
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 29.393279569892485,
+    "humidity": 74.54435483870968,
+    "precipitation": 51.40000000000009,
+    "wind_speed": 12.599059139784947
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 29.745416666666646,
+    "humidity": 75.40416666666667,
+    "precipitation": 247.79999999999964,
+    "wind_speed": 9.87777777777778
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 28.21962365591396,
+    "humidity": 66.02822580645162,
+    "precipitation": 0.0,
+    "wind_speed": 6.8094086021505325
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 24.553472222222208,
+    "humidity": 63.084722222222226,
+    "precipitation": 64.0,
+    "wind_speed": 8.653749999999992
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 21.609811827957028,
+    "humidity": 68.76881720430107,
+    "precipitation": 1.0,
+    "wind_speed": 9.774193548387073
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 19.991935483870986,
+    "humidity": 64.26881720430107,
+    "precipitation": 0.4,
+    "wind_speed": 8.502419354838706
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 23.326580459770135,
+    "humidity": 52.93390804597701,
+    "precipitation": 0.1,
+    "wind_speed": 9.418678160919534
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 26.783333333333314,
+    "humidity": 42.126344086021504,
+    "precipitation": 3.0,
+    "wind_speed": 8.675940860215047
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 31.64041666666666,
+    "humidity": 39.236111111111114,
+    "precipitation": 0.4,
+    "wind_speed": 8.93041666666666
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 34.666532258064485,
+    "humidity": 42.431451612903224,
+    "precipitation": 3.8000000000000003,
+    "wind_speed": 11.149596774193542
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 33.66097222222219,
+    "humidity": 58.797222222222224,
+    "precipitation": 36.100000000000016,
+    "wind_speed": 11.854166666666675
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 29.858467741935442,
+    "humidity": 81.67876344086021,
+    "precipitation": 253.89999999999915,
+    "wind_speed": 11.265188172043004
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 28.488172043010724,
+    "humidity": 84.01075268817205,
+    "precipitation": 400.29999999999956,
+    "wind_speed": 11.81586021505378
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 28.705416666666657,
+    "humidity": 80.52222222222223,
+    "precipitation": 165.49999999999974,
+    "wind_speed": 8.766527777777773
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 28.894623655913996,
+    "humidity": 71.84408602150538,
+    "precipitation": 17.700000000000003,
+    "wind_speed": 6.874059139784942
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 24.691388888888863,
+    "humidity": 55.40277777777778,
+    "precipitation": 0.0,
+    "wind_speed": 7.4091666666666685
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 20.04905913978496,
+    "humidity": 57.69489247311828,
+    "precipitation": 0.0,
+    "wind_speed": 9.687768817204296
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 20.213844086021524,
+    "humidity": 60.611559139784944,
+    "precipitation": 0.0,
+    "wind_speed": 9.340994623655911
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 23.459821428571438,
+    "humidity": 50.90029761904762,
+    "precipitation": 0.0,
+    "wind_speed": 8.271726190476194
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 27.791532258064507,
+    "humidity": 37.81182795698925,
+    "precipitation": 0.0,
+    "wind_speed": 8.829838709677432
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 32.26611111111111,
+    "humidity": 38.80138888888889,
+    "precipitation": 0.0,
+    "wind_speed": 10.272361111111124
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 32.29072580645161,
+    "humidity": 59.611559139784944,
+    "precipitation": 34.40000000000001,
+    "wind_speed": 9.366532258064517
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 31.218333333333323,
+    "humidity": 70.27222222222223,
+    "precipitation": 160.99999999999972,
+    "wind_speed": 11.963194444444452
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 29.002016129032267,
+    "humidity": 82.50537634408602,
+    "precipitation": 179.29999999999902,
+    "wind_speed": 10.387365591397854
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 28.892607526881754,
+    "humidity": 81.1008064516129,
+    "precipitation": 224.49999999999957,
+    "wind_speed": 9.653360215053771
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 28.648749999999993,
+    "humidity": 78.175,
+    "precipitation": 160.6999999999998,
+    "wind_speed": 10.155555555555551
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 27.304704301075255,
+    "humidity": 67.0497311827957,
+    "precipitation": 143.49999999999997,
+    "wind_speed": 9.370698924731183
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 22.73444444444446,
+    "humidity": 69.69166666666666,
+    "precipitation": 19.30000000000001,
+    "wind_speed": 8.1425
+  },
+  {
+    "city": "Ahmedabad",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 20.767607526881697,
+    "humidity": 63.545698924731184,
+    "precipitation": 0.0,
+    "wind_speed": 8.479569892473124
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 21.604704301075287,
+    "humidity": 74.50537634408602,
+    "precipitation": 40.90000000000002,
+    "wind_speed": 10.020430107526881
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 22.394345238095248,
+    "humidity": 58.427083333333336,
+    "precipitation": 7.1000000000000005,
+    "wind_speed": 9.581696428571416
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 25.796102150537642,
+    "humidity": 46.37231182795699,
+    "precipitation": 0.0,
+    "wind_speed": 9.888037634408601
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 26.479166666666686,
+    "humidity": 60.80277777777778,
+    "precipitation": 81.59999999999998,
+    "wind_speed": 6.942499999999993
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 25.879301075268828,
+    "humidity": 71.40994623655914,
+    "precipitation": 69.00000000000001,
+    "wind_speed": 10.061559139784945
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 24.566388888888863,
+    "humidity": 74.71805555555555,
+    "precipitation": 75.79999999999998,
+    "wind_speed": 14.335694444444451
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 23.595161290322583,
+    "humidity": 80.89381720430107,
+    "precipitation": 193.99999999999974,
+    "wind_speed": 15.812231182795717
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 23.29946236559142,
+    "humidity": 81.87768817204301,
+    "precipitation": 146.69999999999996,
+    "wind_speed": 12.637768817204297
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 23.610277777777785,
+    "humidity": 80.05277777777778,
+    "precipitation": 83.19999999999979,
+    "wind_speed": 12.580138888888888
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 23.419086021505404,
+    "humidity": 83.59005376344086,
+    "precipitation": 247.4999999999998,
+    "wind_speed": 7.21895161290322
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 21.893472222222197,
+    "humidity": 86.83611111111111,
+    "precipitation": 346.9000000000004,
+    "wind_speed": 9.51819444444445
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 21.569086021505367,
+    "humidity": 74.88709677419355,
+    "precipitation": 13.799999999999983,
+    "wind_speed": 9.079569892473122
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 22.319354838709664,
+    "humidity": 66.22446236559139,
+    "precipitation": 2.3000000000000003,
+    "wind_speed": 8.812231182795703
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 23.403422619047596,
+    "humidity": 57.49404761904762,
+    "precipitation": 0.0,
+    "wind_speed": 9.282589285714288
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 25.633602150537616,
+    "humidity": 50.766129032258064,
+    "precipitation": 3.200000000000001,
+    "wind_speed": 9.543817204301089
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 26.867083333333348,
+    "humidity": 60.36805555555556,
+    "precipitation": 29.000000000000004,
+    "wind_speed": 7.708194444444444
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 24.756720430107507,
+    "humidity": 76.86021505376344,
+    "precipitation": 156.09999999999965,
+    "wind_speed": 10.747177419354834
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 24.134722222222223,
+    "humidity": 79.20833333333333,
+    "precipitation": 152.7999999999996,
+    "wind_speed": 12.36055555555556
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 23.036290322580644,
+    "humidity": 83.59274193548387,
+    "precipitation": 263.2999999999993,
+    "wind_speed": 14.790591397849468
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 23.156317204301075,
+    "humidity": 82.62768817204301,
+    "precipitation": 204.29999999999953,
+    "wind_speed": 13.504435483870974
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 23.199722222222228,
+    "humidity": 81.00833333333334,
+    "precipitation": 90.59999999999968,
+    "wind_speed": 10.971388888888894
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 22.528360215053794,
+    "humidity": 80.61693548387096,
+    "precipitation": 143.9999999999998,
+    "wind_speed": 7.8135752688172
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 21.410833333333315,
+    "humidity": 79.8125,
+    "precipitation": 62.100000000000115,
+    "wind_speed": 9.148055555555546
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 21.04072580645162,
+    "humidity": 77.04301075268818,
+    "precipitation": 83.59999999999994,
+    "wind_speed": 10.488978494623648
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 20.502284946236546,
+    "humidity": 65.56451612903226,
+    "precipitation": 0.5,
+    "wind_speed": 10.019623655913973
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 22.927083333333332,
+    "humidity": 49.276785714285715,
+    "precipitation": 0.0,
+    "wind_speed": 10.796726190476178
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 24.848387096774186,
+    "humidity": 50.79838709677419,
+    "precipitation": 12.299999999999994,
+    "wind_speed": 9.781720430107535
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 27.009722222222226,
+    "humidity": 53.00972222222222,
+    "precipitation": 32.39999999999999,
+    "wind_speed": 8.466250000000004
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 25.85376344086022,
+    "humidity": 72.96639784946237,
+    "precipitation": 132.7999999999999,
+    "wind_speed": 7.715860215053769
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 25.107222222222255,
+    "humidity": 75.18611111111112,
+    "precipitation": 102.49999999999987,
+    "wind_speed": 13.227777777777778
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 23.323655913978484,
+    "humidity": 81.1747311827957,
+    "precipitation": 184.7999999999995,
+    "wind_speed": 18.23024193548388
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 24.609946236559143,
+    "humidity": 72.7997311827957,
+    "precipitation": 20.799999999999997,
+    "wind_speed": 12.036693548387108
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 23.990972222222222,
+    "humidity": 78.30555555555556,
+    "precipitation": 81.89999999999998,
+    "wind_speed": 13.02513888888889
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 24.39341397849462,
+    "humidity": 70.21505376344086,
+    "precipitation": 59.300000000000026,
+    "wind_speed": 8.11021505376343
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 23.25791666666665,
+    "humidity": 77.68333333333334,
+    "precipitation": 119.09999999999972,
+    "wind_speed": 9.445555555555563
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 22.247311827956963,
+    "humidity": 74.29838709677419,
+    "precipitation": 14.499999999999988,
+    "wind_speed": 10.664247311827951
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 22.472849462365595,
+    "humidity": 67.5510752688172,
+    "precipitation": 17.7,
+    "wind_speed": 10.124596774193538
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 24.6080459770115,
+    "humidity": 55.41954022988506,
+    "precipitation": 0.0,
+    "wind_speed": 10.71681034482758
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 27.160349462365605,
+    "humidity": 48.63709677419355,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 9.201747311827946
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 29.259027777777764,
+    "humidity": 44.4625,
+    "precipitation": 0.4,
+    "wind_speed": 9.692083333333324
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 26.874462365591402,
+    "humidity": 70.10752688172043,
+    "precipitation": 182.69999999999976,
+    "wind_speed": 8.15846774193548
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 24.611388888888868,
+    "humidity": 79.72083333333333,
+    "precipitation": 156.29999999999944,
+    "wind_speed": 13.955694444444445
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 23.513037634408605,
+    "humidity": 82.34005376344086,
+    "precipitation": 264.19999999999993,
+    "wind_speed": 18.74260752688174
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 24.154435483870973,
+    "humidity": 82.25940860215054,
+    "precipitation": 203.89999999999944,
+    "wind_speed": 11.278360215053764
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 24.024166666666662,
+    "humidity": 78.44305555555556,
+    "precipitation": 36.2000000000001,
+    "wind_speed": 13.157361111111108
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 23.6729838709677,
+    "humidity": 83.02956989247312,
+    "precipitation": 239.69999999999968,
+    "wind_speed": 6.259677419354835
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 22.587222222222213,
+    "humidity": 78.11805555555556,
+    "precipitation": 45.50000000000002,
+    "wind_speed": 9.685694444444444
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 22.09852150537632,
+    "humidity": 80.66801075268818,
+    "precipitation": 68.80000000000003,
+    "wind_speed": 9.85120967741936
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 21.11021505376343,
+    "humidity": 70.97177419354838,
+    "precipitation": 4.600000000000001,
+    "wind_speed": 10.047177419354842
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 23.796726190476196,
+    "humidity": 51.89136904761905,
+    "precipitation": 0.0,
+    "wind_speed": 10.371726190476187
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 26.07862903225806,
+    "humidity": 54.990591397849464,
+    "precipitation": 20.400000000000006,
+    "wind_speed": 8.863306451612912
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 26.17999999999999,
+    "humidity": 64.55555555555556,
+    "precipitation": 71.70000000000002,
+    "wind_speed": 6.63986111111112
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 24.83534946236561,
+    "humidity": 75.37903225806451,
+    "precipitation": 203.09999999999945,
+    "wind_speed": 11.15913978494623
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 24.043055555555572,
+    "humidity": 79.11111111111111,
+    "precipitation": 97.49999999999987,
+    "wind_speed": 16.78736111111111
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 23.146370967741966,
+    "humidity": 81.36962365591398,
+    "precipitation": 149.79999999999967,
+    "wind_speed": 18.200806451612895
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 22.932795698924746,
+    "humidity": 83.61290322580645,
+    "precipitation": 212.99999999999943,
+    "wind_speed": 13.1758064516129
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 23.062083333333323,
+    "humidity": 82.12083333333334,
+    "precipitation": 66.60000000000002,
+    "wind_speed": 12.415138888888903
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 23.0875,
+    "humidity": 81.375,
+    "precipitation": 156.99999999999974,
+    "wind_speed": 9.228225806451611
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 21.915694444444455,
+    "humidity": 77.10833333333333,
+    "precipitation": 34.29999999999998,
+    "wind_speed": 9.444999999999993
+  },
+  {
+    "city": "Bengaluru",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 20.148924731182788,
+    "humidity": 73.30376344086021,
+    "precipitation": 13.599999999999994,
+    "wind_speed": 9.97419354838711
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 26.091129032258067,
+    "humidity": 79.64112903225806,
+    "precipitation": 98.09999999999994,
+    "wind_speed": 12.318817204301084
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 25.59955357142859,
+    "humidity": 74.65625,
+    "precipitation": 39.1,
+    "wind_speed": 10.94449404761905
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 27.64448924731183,
+    "humidity": 77.79032258064517,
+    "precipitation": 0.0,
+    "wind_speed": 9.137365591397849
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 29.71388888888886,
+    "humidity": 77.97638888888889,
+    "precipitation": 12.400000000000002,
+    "wind_speed": 12.524861111111104
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.59395161290326,
+    "humidity": 73.79032258064517,
+    "precipitation": 29.299999999999997,
+    "wind_speed": 14.38723118279569
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 30.606250000000045,
+    "humidity": 70.21666666666667,
+    "precipitation": 54.2,
+    "wind_speed": 14.580972222222199
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 29.601478494623642,
+    "humidity": 74.27016129032258,
+    "precipitation": 124.59999999999997,
+    "wind_speed": 14.3883064516129
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 29.51021505376345,
+    "humidity": 74.86693548387096,
+    "precipitation": 129.70000000000007,
+    "wind_speed": 12.205913978494623
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 29.165138888888876,
+    "humidity": 78.95277777777778,
+    "precipitation": 77.10000000000005,
+    "wind_speed": 12.410694444444445
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 28.37647849462368,
+    "humidity": 82.79166666666667,
+    "precipitation": 202.79999999999959,
+    "wind_speed": 9.86061827956989
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 26.419583333333346,
+    "humidity": 87.8861111111111,
+    "precipitation": 663.900000000001,
+    "wind_speed": 12.795416666666695
+  },
+  {
+    "city": "Chennai",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 26.203360215053713,
+    "humidity": 77.9247311827957,
+    "precipitation": 45.1,
+    "wind_speed": 12.289650537634387
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 26.129301075268803,
+    "humidity": 78.35349462365592,
+    "precipitation": 31.200000000000074,
+    "wind_speed": 11.983198924731187
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 26.38437500000001,
+    "humidity": 72.5952380952381,
+    "precipitation": 1.3,
+    "wind_speed": 11.82276785714285
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 28.194623655913993,
+    "humidity": 77.0510752688172,
+    "precipitation": 4.6,
+    "wind_speed": 13.079973118279582
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 30.120138888888896,
+    "humidity": 77.4263888888889,
+    "precipitation": 8.999999999999993,
+    "wind_speed": 13.48083333333333
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 30.37137096774195,
+    "humidity": 75.98655913978494,
+    "precipitation": 74.59999999999991,
+    "wind_speed": 14.017069892473115
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 30.406666666666677,
+    "humidity": 73.86805555555556,
+    "precipitation": 56.20000000000003,
+    "wind_speed": 13.63152777777777
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 29.417338709677413,
+    "humidity": 74.81048387096774,
+    "precipitation": 128.0999999999999,
+    "wind_speed": 13.349596774193559
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 29.129166666666656,
+    "humidity": 76.97446236559139,
+    "precipitation": 111.60000000000004,
+    "wind_speed": 12.729301075268822
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 29.2256944444445,
+    "humidity": 77.82777777777778,
+    "precipitation": 93.80000000000007,
+    "wind_speed": 11.399999999999995
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 27.803494623655947,
+    "humidity": 79.83870967741936,
+    "precipitation": 208.79999999999927,
+    "wind_speed": 10.605376344086025
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 26.20624999999997,
+    "humidity": 83.62083333333334,
+    "precipitation": 399.40000000000094,
+    "wind_speed": 13.368749999999995
+  },
+  {
+    "city": "Chennai",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 26.14704301075268,
+    "humidity": 82.71236559139786,
+    "precipitation": 213.49999999999955,
+    "wind_speed": 15.147580645161295
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 25.441397849462373,
+    "humidity": 73.90456989247312,
+    "precipitation": 7.999999999999996,
+    "wind_speed": 12.062231182795697
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 25.882142857142856,
+    "humidity": 76.01339285714286,
+    "precipitation": 1.9000000000000001,
+    "wind_speed": 9.13303571428571
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 27.790322580645153,
+    "humidity": 77.65994623655914,
+    "precipitation": 27.900000000000013,
+    "wind_speed": 12.048790322580652
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 29.73361111111107,
+    "humidity": 77.69444444444444,
+    "precipitation": 15.89999999999999,
+    "wind_speed": 12.855000000000008
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.405107526881768,
+    "humidity": 78.88575268817205,
+    "precipitation": 86.99999999999999,
+    "wind_speed": 13.221370967741942
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 31.11625000000001,
+    "humidity": 71.52638888888889,
+    "precipitation": 42.60000000000002,
+    "wind_speed": 14.865277777777786
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 30.02688172043011,
+    "humidity": 71.38978494623656,
+    "precipitation": 91.80000000000003,
+    "wind_speed": 15.060752688172032
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 30.040591397849454,
+    "humidity": 75.28494623655914,
+    "precipitation": 63.70000000000004,
+    "wind_speed": 12.108198924731198
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 29.28541666666668,
+    "humidity": 79.1361111111111,
+    "precipitation": 166.89999999999986,
+    "wind_speed": 13.78236111111111
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 28.779166666666686,
+    "humidity": 80.51612903225806,
+    "precipitation": 49.900000000000105,
+    "wind_speed": 10.552822580645149
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 27.070138888888863,
+    "humidity": 85.55555555555556,
+    "precipitation": 389.3000000000005,
+    "wind_speed": 12.428194444444442
+  },
+  {
+    "city": "Chennai",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 26.38306451612902,
+    "humidity": 80.75403225806451,
+    "precipitation": 336.3000000000012,
+    "wind_speed": 17.29206989247312
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 26.134274193548386,
+    "humidity": 77.14112903225806,
+    "precipitation": 73.59999999999985,
+    "wind_speed": 11.586021505376355
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 27.17456896551721,
+    "humidity": 77.26724137931035,
+    "precipitation": 1.8000000000000005,
+    "wind_speed": 11.5668103448276
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 28.503897849462373,
+    "humidity": 75.55913978494624,
+    "precipitation": 0.7000000000000001,
+    "wind_speed": 12.522311827956997
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 30.639583333333338,
+    "humidity": 76.14583333333333,
+    "precipitation": 0.2,
+    "wind_speed": 14.574027777777767
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 31.173790322580665,
+    "humidity": 76.31182795698925,
+    "precipitation": 119.09999999999995,
+    "wind_speed": 14.436827956989248
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 30.361805555555534,
+    "humidity": 75.93888888888888,
+    "precipitation": 120.19999999999975,
+    "wind_speed": 14.817500000000008
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 29.86680107526878,
+    "humidity": 73.78225806451613,
+    "precipitation": 97.79999999999988,
+    "wind_speed": 15.540591397849447
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 29.569489247311818,
+    "humidity": 78.18413978494624,
+    "precipitation": 133.59999999999954,
+    "wind_speed": 13.412903225806447
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 29.89111111111114,
+    "humidity": 75.94027777777778,
+    "precipitation": 46.40000000000007,
+    "wind_speed": 11.77666666666666
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 28.75389784946236,
+    "humidity": 81.38306451612904,
+    "precipitation": 210.7999999999996,
+    "wind_speed": 9.02620967741935
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 27.15916666666669,
+    "humidity": 82.6875,
+    "precipitation": 354.4,
+    "wind_speed": 17.001111111111122
+  },
+  {
+    "city": "Chennai",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 26.574462365591422,
+    "humidity": 83.48790322580645,
+    "precipitation": 161.79999999999976,
+    "wind_speed": 16.198252688172037
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 25.763037634408622,
+    "humidity": 76.25268817204301,
+    "precipitation": 23.300000000000008,
+    "wind_speed": 13.022446236559142
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 26.445833333333365,
+    "humidity": 78.27678571428571,
+    "precipitation": 0.5,
+    "wind_speed": 8.653869047619054
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 28.542876344086014,
+    "humidity": 76.86559139784946,
+    "precipitation": 21.100000000000023,
+    "wind_speed": 11.108333333333338
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 30.244166666666665,
+    "humidity": 76.80694444444444,
+    "precipitation": 9.89999999999999,
+    "wind_speed": 13.00666666666668
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 30.62903225806453,
+    "humidity": 74.89650537634408,
+    "precipitation": 65.50000000000003,
+    "wind_speed": 13.891532258064514
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 31.14375,
+    "humidity": 68.00416666666666,
+    "precipitation": 27.600000000000012,
+    "wind_speed": 15.321666666666662
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 30.478091397849454,
+    "humidity": 67.14784946236558,
+    "precipitation": 99.49999999999994,
+    "wind_speed": 13.828225806451625
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 29.138978494623665,
+    "humidity": 77.13306451612904,
+    "precipitation": 102.0999999999999,
+    "wind_speed": 12.119354838709686
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 29.284166666666618,
+    "humidity": 76.64166666666667,
+    "precipitation": 56.700000000000045,
+    "wind_speed": 11.68833333333334
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 27.93709677419356,
+    "humidity": 83.75806451612904,
+    "precipitation": 249.59999999999962,
+    "wind_speed": 10.536693548387102
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 27.26180555555554,
+    "humidity": 80.19305555555556,
+    "precipitation": 202.99999999999977,
+    "wind_speed": 15.539999999999996
+  },
+  {
+    "city": "Chennai",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 25.39744623655914,
+    "humidity": 76.6760752688172,
+    "precipitation": 99.09999999999974,
+    "wind_speed": 15.599865591397837
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 13.307123655913971,
+    "humidity": 78.88575268817205,
+    "precipitation": 30.300000000000008,
+    "wind_speed": 9.386559139784943
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 18.779166666666654,
+    "humidity": 69.38988095238095,
+    "precipitation": 4.7,
+    "wind_speed": 7.950595238095239
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 25.16532258064516,
+    "humidity": 52.403225806451616,
+    "precipitation": 7.2,
+    "wind_speed": 10.111155913978498
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 29.796527777777744,
+    "humidity": 31.834722222222222,
+    "precipitation": 3.8000000000000003,
+    "wind_speed": 10.606666666666657
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.552822580645206,
+    "humidity": 52.53629032258065,
+    "precipitation": 101.10000000000002,
+    "wind_speed": 9.551478494623655
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 32.56541666666669,
+    "humidity": 58.99444444444445,
+    "precipitation": 23.800000000000008,
+    "wind_speed": 9.164166666666665
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 31.708198924731175,
+    "humidity": 72.28897849462365,
+    "precipitation": 269.5,
+    "wind_speed": 9.239516129032266
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 30.403897849462385,
+    "humidity": 77.29569892473118,
+    "precipitation": 115.50000000000001,
+    "wind_speed": 8.68736559139785
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 28.66458333333332,
+    "humidity": 84.30277777777778,
+    "precipitation": 185.30000000000004,
+    "wind_speed": 8.663055555555543
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 25.845698924731185,
+    "humidity": 72.9260752688172,
+    "precipitation": 64.60000000000001,
+    "wind_speed": 8.048655913978484
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 19.220833333333324,
+    "humidity": 69.99027777777778,
+    "precipitation": 0.0,
+    "wind_speed": 7.467222222222218
+  },
+  {
+    "city": "Delhi",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 14.656048387096785,
+    "humidity": 75.97043010752688,
+    "precipitation": 13.899999999999999,
+    "wind_speed": 7.616263440860211
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 12.704435483870958,
+    "humidity": 86.18817204301075,
+    "precipitation": 82.09999999999992,
+    "wind_speed": 8.460483870967746
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 16.47351190476192,
+    "humidity": 75.13095238095238,
+    "precipitation": 24.600000000000012,
+    "wind_speed": 9.613541666666663
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 25.029032258064525,
+    "humidity": 61.130376344086024,
+    "precipitation": 4.0,
+    "wind_speed": 9.326747311827969
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 31.74624999999999,
+    "humidity": 35.09444444444444,
+    "precipitation": 1.8,
+    "wind_speed": 9.49972222222221
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 33.322849462365575,
+    "humidity": 50.08736559139785,
+    "precipitation": 25.700000000000006,
+    "wind_speed": 9.688037634408596
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 34.39208333333332,
+    "humidity": 47.540277777777774,
+    "precipitation": 64.39999999999999,
+    "wind_speed": 10.922222222222219
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 30.861155913978486,
+    "humidity": 79.36962365591398,
+    "precipitation": 186.39999999999958,
+    "wind_speed": 8.729973118279569
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 30.345698924731234,
+    "humidity": 77.50672043010752,
+    "precipitation": 92.6999999999999,
+    "wind_speed": 9.513978494623665
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 29.646388888888907,
+    "humidity": 76.275,
+    "precipitation": 146.59999999999997,
+    "wind_speed": 8.807916666666664
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 24.955510752688145,
+    "humidity": 75.57661290322581,
+    "precipitation": 185.39999999999986,
+    "wind_speed": 7.621774193548385
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 20.300277777777776,
+    "humidity": 69.20972222222223,
+    "precipitation": 3.0000000000000004,
+    "wind_speed": 7.805416666666651
+  },
+  {
+    "city": "Delhi",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 14.882123655913992,
+    "humidity": 73.8508064516129,
+    "precipitation": 0.1,
+    "wind_speed": 9.276747311827961
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 12.448521505376348,
+    "humidity": 80.37096774193549,
+    "precipitation": 23.599999999999994,
+    "wind_speed": 8.243279569892469
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 19.3813988095238,
+    "humidity": 65.11607142857143,
+    "precipitation": 1.5,
+    "wind_speed": 9.834523809523807
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 23.182526881720428,
+    "humidity": 66.03494623655914,
+    "precipitation": 67.39999999999995,
+    "wind_speed": 7.831720430107527
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 27.90180555555556,
+    "humidity": 44.923611111111114,
+    "precipitation": 19.4,
+    "wind_speed": 8.775000000000002
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.165053763440884,
+    "humidity": 51.41532258064516,
+    "precipitation": 72.10000000000002,
+    "wind_speed": 9.86666666666666
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 32.178194444444415,
+    "humidity": 59.94444444444444,
+    "precipitation": 86.09999999999995,
+    "wind_speed": 9.79708333333333
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 30.091263440860228,
+    "humidity": 83.53494623655914,
+    "precipitation": 292.99999999999955,
+    "wind_speed": 8.14408602150538
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 30.94986559139788,
+    "humidity": 74.31048387096774,
+    "precipitation": 54.90000000000007,
+    "wind_speed": 10.206048387096786
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 29.8201388888889,
+    "humidity": 76.35833333333333,
+    "precipitation": 97.79999999999986,
+    "wind_speed": 8.322361111111112
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 25.982258064516113,
+    "humidity": 63.975806451612904,
+    "precipitation": 10.1,
+    "wind_speed": 8.07069892473116
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 20.555416666666652,
+    "humidity": 73.35416666666667,
+    "precipitation": 6.099999999999999,
+    "wind_speed": 6.620694444444449
+  },
+  {
+    "city": "Delhi",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 15.646505376344077,
+    "humidity": 76.61290322580645,
+    "precipitation": 1.5000000000000002,
+    "wind_speed": 7.10295698924731
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 11.107661290322584,
+    "humidity": 85.11827956989248,
+    "precipitation": 9.399999999999999,
+    "wind_speed": 6.580107526881717
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 16.596839080459777,
+    "humidity": 69.52873563218391,
+    "precipitation": 17.60000000000001,
+    "wind_speed": 9.344396551724138
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 22.21236559139784,
+    "humidity": 60.69758064516129,
+    "precipitation": 33.000000000000014,
+    "wind_speed": 9.534946236559138
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 29.357638888888903,
+    "humidity": 38.234722222222224,
+    "precipitation": 0.8,
+    "wind_speed": 10.402083333333325
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 34.85268817204302,
+    "humidity": 35.42741935483871,
+    "precipitation": 0.4,
+    "wind_speed": 11.28185483870968
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 35.39027777777779,
+    "humidity": 46.99166666666667,
+    "precipitation": 76.99999999999996,
+    "wind_speed": 11.954166666666653
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 31.305779569892497,
+    "humidity": 81.68817204301075,
+    "precipitation": 145.99999999999957,
+    "wind_speed": 7.455107526881719
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 29.65147849462362,
+    "humidity": 85.98655913978494,
+    "precipitation": 250.09999999999926,
+    "wind_speed": 8.517876344086032
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 28.64597222222221,
+    "humidity": 85.275,
+    "precipitation": 323.6000000000003,
+    "wind_speed": 7.82916666666667
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 27.21612903225805,
+    "humidity": 72.42204301075269,
+    "precipitation": 0.1,
+    "wind_speed": 7.47741935483871
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 21.025694444444426,
+    "humidity": 74.1625,
+    "precipitation": 0.0,
+    "wind_speed": 6.912222222222225
+  },
+  {
+    "city": "Delhi",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 14.578225806451604,
+    "humidity": 73.69220430107526,
+    "precipitation": 38.20000000000001,
+    "wind_speed": 8.5850806451613
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 13.699596774193548,
+    "humidity": 81.93010752688173,
+    "precipitation": 12.099999999999996,
+    "wind_speed": 8.444220430107517
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 18.087500000000002,
+    "humidity": 68.94494047619048,
+    "precipitation": 16.7,
+    "wind_speed": 9.826636904761914
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 23.43145161290323,
+    "humidity": 54.545698924731184,
+    "precipitation": 15.399999999999993,
+    "wind_speed": 10.719623655913972
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 30.87888888888884,
+    "humidity": 39.55416666666667,
+    "precipitation": 8.599999999999998,
+    "wind_speed": 10.286805555555548
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 31.982123655914,
+    "humidity": 55.043010752688176,
+    "precipitation": 32.60000000000002,
+    "wind_speed": 10.51411290322582
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 32.047916666666644,
+    "humidity": 66.59583333333333,
+    "precipitation": 110.89999999999972,
+    "wind_speed": 8.72791666666667
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 29.866129032258076,
+    "humidity": 82.95430107526882,
+    "precipitation": 247.09999999999943,
+    "wind_speed": 8.07647849462365
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 29.389381720430112,
+    "humidity": 84.55510752688173,
+    "precipitation": 203.29999999999947,
+    "wind_speed": 8.795430107526885
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 29.585138888888913,
+    "humidity": 77.56666666666666,
+    "precipitation": 141.69999999999976,
+    "wind_speed": 9.567083333333333
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 25.115994623655947,
+    "humidity": 76.35887096774194,
+    "precipitation": 53.30000000000004,
+    "wind_speed": 6.1096774193548455
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 18.547083333333315,
+    "humidity": 68.05694444444444,
+    "precipitation": 0.0,
+    "wind_speed": 7.961250000000004
+  },
+  {
+    "city": "Delhi",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 14.520026881720444,
+    "humidity": 76.79032258064517,
+    "precipitation": 0.0,
+    "wind_speed": 8.17096774193549
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 23.54905913978497,
+    "humidity": 64.33602150537635,
+    "precipitation": 0.8999999999999999,
+    "wind_speed": 8.230779569892464
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 23.914434523809515,
+    "humidity": 51.62797619047619,
+    "precipitation": 0.6,
+    "wind_speed": 8.43571428571429
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 28.25806451612903,
+    "humidity": 42.77956989247312,
+    "precipitation": 0.7,
+    "wind_speed": 9.18333333333333
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 30.040833333333325,
+    "humidity": 49.50833333333333,
+    "precipitation": 9.999999999999998,
+    "wind_speed": 7.716944444444446
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.76102150537635,
+    "humidity": 55.69086021505376,
+    "precipitation": 30.899999999999995,
+    "wind_speed": 11.882526881720405
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 27.5676388888889,
+    "humidity": 73.31111111111112,
+    "precipitation": 105.60000000000002,
+    "wind_speed": 15.57374999999998
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 26.365322580645184,
+    "humidity": 80.77822580645162,
+    "precipitation": 211.09999999999974,
+    "wind_speed": 15.81438172043012
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 26.634543010752672,
+    "humidity": 79.21236559139786,
+    "precipitation": 151.99999999999991,
+    "wind_speed": 13.145026881720412
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 25.858750000000036,
+    "humidity": 82.9375,
+    "precipitation": 192.49999999999974,
+    "wind_speed": 13.273055555555569
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 26.21384408602153,
+    "humidity": 72.96370967741936,
+    "precipitation": 35.1,
+    "wind_speed": 7.638172043010741
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 24.330138888888868,
+    "humidity": 77.59861111111111,
+    "precipitation": 34.000000000000036,
+    "wind_speed": 9.06027777777778
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 22.493279569892486,
+    "humidity": 65.04032258064517,
+    "precipitation": 0.8,
+    "wind_speed": 8.20766129032258
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 21.921639784946233,
+    "humidity": 66.65053763440861,
+    "precipitation": 9.79999999999999,
+    "wind_speed": 8.794086021505372
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 24.328273809523797,
+    "humidity": 53.950892857142854,
+    "precipitation": 0.2,
+    "wind_speed": 9.944791666666665
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 28.804569892473122,
+    "humidity": 44.23521505376344,
+    "precipitation": 0.1,
+    "wind_speed": 8.355645161290319
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 31.186666666666678,
+    "humidity": 49.702777777777776,
+    "precipitation": 5.099999999999999,
+    "wind_speed": 8.378333333333325
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 31.275672043010765,
+    "humidity": 53.950268817204304,
+    "precipitation": 33.90000000000002,
+    "wind_speed": 11.519623655913975
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 29.368194444444466,
+    "humidity": 65.03194444444445,
+    "precipitation": 115.49999999999993,
+    "wind_speed": 13.35236111111111
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 25.38037634408604,
+    "humidity": 85.5497311827957,
+    "precipitation": 482.7000000000009,
+    "wind_speed": 17.313172043010752
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 26.24099462365592,
+    "humidity": 81.34543010752688,
+    "precipitation": 184.29999999999944,
+    "wind_speed": 14.78642473118279
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 25.87666666666665,
+    "humidity": 82.93472222222222,
+    "precipitation": 245.69999999999956,
+    "wind_speed": 11.364861111111118
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 24.824865591397867,
+    "humidity": 76.67204301075269,
+    "precipitation": 82.29999999999997,
+    "wind_speed": 8.338709677419354
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 23.04208333333333,
+    "humidity": 64.69166666666666,
+    "precipitation": 3.400000000000001,
+    "wind_speed": 8.03833333333333
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 23.262365591397835,
+    "humidity": 68.81989247311827,
+    "precipitation": 22.80000000000001,
+    "wind_speed": 8.219489247311824
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 22.570161290322602,
+    "humidity": 61.95967741935484,
+    "precipitation": 1.3,
+    "wind_speed": 8.653225806451605
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 24.82872023809522,
+    "humidity": 46.611607142857146,
+    "precipitation": 0.0,
+    "wind_speed": 8.438244047619037
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 26.48024193548389,
+    "humidity": 54.024193548387096,
+    "precipitation": 52.40000000000003,
+    "wind_speed": 9.023387096774183
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 29.69958333333335,
+    "humidity": 51.59444444444444,
+    "precipitation": 37.1,
+    "wind_speed": 8.739444444444443
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.684274193548386,
+    "humidity": 54.973118279569896,
+    "precipitation": 31.90000000000002,
+    "wind_speed": 9.126881720430113
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 30.7556944444444,
+    "humidity": 57.05972222222222,
+    "precipitation": 38.40000000000003,
+    "wind_speed": 15.320694444444436
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 26.271639784946252,
+    "humidity": 80.90860215053763,
+    "precipitation": 440.9000000000009,
+    "wind_speed": 19.38978494623658
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 27.17392473118277,
+    "humidity": 75.99193548387096,
+    "precipitation": 20.200000000000014,
+    "wind_speed": 14.391666666666664
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 26.23930555555556,
+    "humidity": 82.69166666666666,
+    "precipitation": 281.49999999999994,
+    "wind_speed": 12.37680555555555
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 26.309408602150537,
+    "humidity": 66.62231182795699,
+    "precipitation": 2.800000000000001,
+    "wind_speed": 8.412231182795692
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 24.909027777777776,
+    "humidity": 73.6361111111111,
+    "precipitation": 33.00000000000003,
+    "wind_speed": 8.25166666666666
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 22.253629032258047,
+    "humidity": 67.41666666666667,
+    "precipitation": 6.6999999999999975,
+    "wind_speed": 8.523790322580636
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 23.55645161290325,
+    "humidity": 65.49193548387096,
+    "precipitation": 0.1,
+    "wind_speed": 9.625672043010749
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 26.22083333333335,
+    "humidity": 57.020114942528735,
+    "precipitation": 0.4,
+    "wind_speed": 10.451293103448277
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 29.37862903225808,
+    "humidity": 50.090053763440864,
+    "precipitation": 2.6000000000000005,
+    "wind_speed": 9.899865591397852
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 32.204583333333275,
+    "humidity": 44.55416666666667,
+    "precipitation": 7.799999999999999,
+    "wind_speed": 9.568888888888884
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 31.729301075268836,
+    "humidity": 55.95295698924731,
+    "precipitation": 65.50000000000003,
+    "wind_speed": 10.465994623655906
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 28.453888888888834,
+    "humidity": 73.74444444444444,
+    "precipitation": 186.09999999999977,
+    "wind_speed": 13.159583333333329
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 26.137231182795716,
+    "humidity": 83.5725806451613,
+    "precipitation": 340.50000000000057,
+    "wind_speed": 19.722580645161273
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 26.675672043010753,
+    "humidity": 82.58333333333333,
+    "precipitation": 174.19999999999956,
+    "wind_speed": 13.222043010752706
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 26.1815277777778,
+    "humidity": 81.82916666666667,
+    "precipitation": 341.200000000001,
+    "wind_speed": 14.013750000000002
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 26.390188172043,
+    "humidity": 80.72043010752688,
+    "precipitation": 87.50000000000007,
+    "wind_speed": 7.857526881720439
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 23.159166666666653,
+    "humidity": 71.25833333333334,
+    "precipitation": 6.799999999999995,
+    "wind_speed": 8.065138888888892
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 22.828629032258036,
+    "humidity": 75.77822580645162,
+    "precipitation": 15.899999999999988,
+    "wind_speed": 8.454838709677414
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 22.210080645161298,
+    "humidity": 64.30510752688173,
+    "precipitation": 0.0,
+    "wind_speed": 8.481720430107528
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 25.964434523809565,
+    "humidity": 53.694940476190474,
+    "precipitation": 0.0,
+    "wind_speed": 7.960119047619044
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 28.381048387096754,
+    "humidity": 49.516129032258064,
+    "precipitation": 4.800000000000001,
+    "wind_speed": 8.938306451612908
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 30.479305555555523,
+    "humidity": 52.24583333333333,
+    "precipitation": 7.499999999999999,
+    "wind_speed": 8.849861111111105
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 29.086559139784917,
+    "humidity": 65.85349462365592,
+    "precipitation": 100.79999999999987,
+    "wind_speed": 9.69543010752689
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 27.672916666666655,
+    "humidity": 73.65694444444445,
+    "precipitation": 125.19999999999983,
+    "wind_speed": 16.918472222222217
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 26.134139784946218,
+    "humidity": 80.74731182795699,
+    "precipitation": 202.5999999999998,
+    "wind_speed": 18.525940860215055
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 25.61854838709679,
+    "humidity": 84.11424731182795,
+    "precipitation": 383.59999999999997,
+    "wind_speed": 14.998655913978492
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 25.531666666666652,
+    "humidity": 84.73611111111111,
+    "precipitation": 304.0,
+    "wind_speed": 12.963611111111113
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 25.48844086021506,
+    "humidity": 81.10215053763442,
+    "precipitation": 102.30000000000007,
+    "wind_speed": 10.078091397849455
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 22.505277777777774,
+    "humidity": 71.45,
+    "precipitation": 7.799999999999998,
+    "wind_speed": 8.15666666666667
+  },
+  {
+    "city": "Hyderabad",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 20.445564516129014,
+    "humidity": 60.516129032258064,
+    "precipitation": 0.0,
+    "wind_speed": 8.176747311827961
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 13.825403225806465,
+    "humidity": 70.88709677419355,
+    "precipitation": 28.0,
+    "wind_speed": 8.620564516129036
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 19.523809523809536,
+    "humidity": 50.760416666666664,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 7.616666666666661
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 25.480645161290305,
+    "humidity": 40.37903225806452,
+    "precipitation": 7.1,
+    "wind_speed": 9.470161290322583
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 29.292638888888906,
+    "humidity": 28.0125,
+    "precipitation": 3.2,
+    "wind_speed": 10.116527777777781
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.47419354838706,
+    "humidity": 45.01075268817204,
+    "precipitation": 66.90000000000002,
+    "wind_speed": 10.163172043010752
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 32.17819444444445,
+    "humidity": 50.68333333333333,
+    "precipitation": 7.1,
+    "wind_speed": 11.221527777777782
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 30.43521505376346,
+    "humidity": 68.90860215053763,
+    "precipitation": 105.00000000000004,
+    "wind_speed": 10.909274193548399
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 28.88387096774189,
+    "humidity": 72.46505376344086,
+    "precipitation": 61.30000000000006,
+    "wind_speed": 10.879973118279564
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 27.446805555555553,
+    "humidity": 82.14722222222223,
+    "precipitation": 124.29999999999991,
+    "wind_speed": 10.553472222222215
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 26.040188172043024,
+    "humidity": 57.5,
+    "precipitation": 38.300000000000004,
+    "wind_speed": 7.656317204301069
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 19.794027777777778,
+    "humidity": 55.888888888888886,
+    "precipitation": 6.3,
+    "wind_speed": 6.426805555555548
+  },
+  {
+    "city": "Jaipur",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 15.337231182795708,
+    "humidity": 63.00672043010753,
+    "precipitation": 6.000000000000001,
+    "wind_speed": 6.862768817204304
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 12.582526881720437,
+    "humidity": 76.02284946236558,
+    "precipitation": 49.90000000000003,
+    "wind_speed": 7.4860215053763515
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 18.237648809523808,
+    "humidity": 52.607142857142854,
+    "precipitation": 0.9,
+    "wind_speed": 8.98541666666666
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 26.24408602150539,
+    "humidity": 40.57661290322581,
+    "precipitation": 1.7000000000000002,
+    "wind_speed": 9.55860215053764
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 32.19499999999999,
+    "humidity": 24.509722222222223,
+    "precipitation": 0.2,
+    "wind_speed": 10.508055555555554
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 34.610215053763426,
+    "humidity": 32.18010752688172,
+    "precipitation": 3.7,
+    "wind_speed": 12.595026881720425
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 33.37180555555556,
+    "humidity": 45.11666666666667,
+    "precipitation": 23.799999999999997,
+    "wind_speed": 12.896527777777775
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 28.910349462365584,
+    "humidity": 81.4758064516129,
+    "precipitation": 235.99999999999943,
+    "wind_speed": 8.52096774193548
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 27.709543010752704,
+    "humidity": 82.28091397849462,
+    "precipitation": 104.8999999999998,
+    "wind_speed": 11.143951612903216
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 28.19055555555554,
+    "humidity": 74.59444444444445,
+    "precipitation": 129.7,
+    "wind_speed": 9.963055555555565
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 24.536424731182823,
+    "humidity": 65.66801075268818,
+    "precipitation": 82.99999999999996,
+    "wind_speed": 7.9513440860215
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 20.150416666666672,
+    "humidity": 58.09027777777778,
+    "precipitation": 2.5,
+    "wind_speed": 6.774027777777788
+  },
+  {
+    "city": "Jaipur",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 15.475268817204274,
+    "humidity": 62.20161290322581,
+    "precipitation": 0.0,
+    "wind_speed": 7.27903225806452
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 13.173387096774201,
+    "humidity": 66.125,
+    "precipitation": 32.00000000000001,
+    "wind_speed": 7.636559139784946
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 20.15476190476191,
+    "humidity": 51.535714285714285,
+    "precipitation": 0.0,
+    "wind_speed": 8.593601190476189
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 23.49274193548389,
+    "humidity": 53.95564516129032,
+    "precipitation": 29.90000000000001,
+    "wind_speed": 7.127150537634401
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 28.074305555555565,
+    "humidity": 36.668055555555554,
+    "precipitation": 16.2,
+    "wind_speed": 8.894305555555558
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.43413978494627,
+    "humidity": 44.76075268817204,
+    "precipitation": 44.800000000000026,
+    "wind_speed": 10.425268817204316
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 30.651249999999976,
+    "humidity": 62.05416666666667,
+    "precipitation": 92.10000000000004,
+    "wind_speed": 11.634166666666662
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 29.16747311827955,
+    "humidity": 81.40053763440861,
+    "precipitation": 214.09999999999974,
+    "wind_speed": 8.245833333333326
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 28.922580645161307,
+    "humidity": 73.09139784946237,
+    "precipitation": 13.699999999999983,
+    "wind_speed": 12.653225806451605
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 28.867499999999982,
+    "humidity": 71.7125,
+    "precipitation": 60.80000000000006,
+    "wind_speed": 9.71999999999999
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 26.42661290322581,
+    "humidity": 52.3494623655914,
+    "precipitation": 2.6,
+    "wind_speed": 8.851747311827959
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 20.63500000000001,
+    "humidity": 63.28888888888889,
+    "precipitation": 4.699999999999998,
+    "wind_speed": 6.831944444444446
+  },
+  {
+    "city": "Jaipur",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 16.328629032258053,
+    "humidity": 66.95833333333333,
+    "precipitation": 6.499999999999998,
+    "wind_speed": 7.011559139784955
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 12.974462365591384,
+    "humidity": 76.67338709677419,
+    "precipitation": 0.8,
+    "wind_speed": 6.811962365591395
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 17.54324712643678,
+    "humidity": 56.785919540229884,
+    "precipitation": 3.7,
+    "wind_speed": 8.904310344827591
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 23.58010752688173,
+    "humidity": 43.34274193548387,
+    "precipitation": 3.8000000000000003,
+    "wind_speed": 9.204704301075251
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 29.593888888888905,
+    "humidity": 32.5625,
+    "precipitation": 1.9000000000000001,
+    "wind_speed": 10.055972222222213
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 35.02043010752682,
+    "humidity": 29.086021505376344,
+    "precipitation": 2.9,
+    "wind_speed": 11.349327956989258
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 34.3261111111111,
+    "humidity": 46.143055555555556,
+    "precipitation": 48.70000000000005,
+    "wind_speed": 11.977083333333328
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 30.190725806451624,
+    "humidity": 80.01747311827957,
+    "precipitation": 188.1999999999994,
+    "wind_speed": 9.226747311827944
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 27.313978494623644,
+    "humidity": 88.66532258064517,
+    "precipitation": 442.8000000000017,
+    "wind_speed": 9.990591397849471
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 27.62263888888886,
+    "humidity": 83.16527777777777,
+    "precipitation": 157.09999999999965,
+    "wind_speed": 7.379027777777782
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 27.235483870967734,
+    "humidity": 61.115591397849464,
+    "precipitation": 2.6,
+    "wind_speed": 7.819220430107526
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 21.310555555555556,
+    "humidity": 60.67777777777778,
+    "precipitation": 0.0,
+    "wind_speed": 6.407499999999998
+  },
+  {
+    "city": "Jaipur",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 14.813575268817191,
+    "humidity": 66.06720430107526,
+    "precipitation": 38.0,
+    "wind_speed": 8.195698924731184
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 14.401747311827965,
+    "humidity": 74.95161290322581,
+    "precipitation": 14.499999999999995,
+    "wind_speed": 7.655376344086019
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 19.295684523809513,
+    "humidity": 57.632440476190474,
+    "precipitation": 3.2000000000000006,
+    "wind_speed": 8.551339285714276
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 24.254973118279587,
+    "humidity": 41.35618279569893,
+    "precipitation": 0.5,
+    "wind_speed": 9.97405913978495
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 31.394861111111126,
+    "humidity": 29.480555555555554,
+    "precipitation": 3.6,
+    "wind_speed": 10.566111111111118
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 32.19233870967739,
+    "humidity": 45.979838709677416,
+    "precipitation": 10.599999999999996,
+    "wind_speed": 10.741129032258062
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 31.000416666666666,
+    "humidity": 63.30694444444445,
+    "precipitation": 134.3999999999998,
+    "wind_speed": 9.712499999999993
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 28.051747311827967,
+    "humidity": 84.49596774193549,
+    "precipitation": 284.4999999999993,
+    "wind_speed": 9.029166666666661
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 28.327284946236585,
+    "humidity": 81.4260752688172,
+    "precipitation": 158.0999999999998,
+    "wind_speed": 9.301881720430101
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 28.070694444444477,
+    "humidity": 75.925,
+    "precipitation": 73.00000000000009,
+    "wind_speed": 10.434027777777782
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 23.856048387096763,
+    "humidity": 71.75,
+    "precipitation": 69.50000000000001,
+    "wind_speed": 6.59354838709677
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 18.450833333333314,
+    "humidity": 61.90694444444444,
+    "precipitation": 14.399999999999999,
+    "wind_speed": 6.662777777777775
+  },
+  {
+    "city": "Jaipur",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 15.847311827956998,
+    "humidity": 64.58602150537635,
+    "precipitation": 0.0,
+    "wind_speed": 6.47674731182795
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 19.643682795698915,
+    "humidity": 74.34408602150538,
+    "precipitation": 0.0,
+    "wind_speed": 7.345564516129034
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 22.2144345238095,
+    "humidity": 69.05505952380952,
+    "precipitation": 2.5,
+    "wind_speed": 7.121279761904761
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 28.42822580645157,
+    "humidity": 67.76075268817205,
+    "precipitation": 7.3,
+    "wind_speed": 7.697177419354836
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 30.205694444444408,
+    "humidity": 72.24861111111112,
+    "precipitation": 12.399999999999999,
+    "wind_speed": 10.991388888888899
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.118682795698938,
+    "humidity": 75.91397849462365,
+    "precipitation": 164.2999999999999,
+    "wind_speed": 11.735080645161283
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 29.459583333333345,
+    "humidity": 84.53472222222223,
+    "precipitation": 365.49999999999994,
+    "wind_speed": 10.738611111111112
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 29.509139784946225,
+    "humidity": 84.95430107526882,
+    "precipitation": 324.7999999999997,
+    "wind_speed": 10.521505376344077
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 29.371908602150555,
+    "humidity": 86.19354838709677,
+    "precipitation": 267.0999999999998,
+    "wind_speed": 9.537903225806458
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 28.52944444444448,
+    "humidity": 87.42222222222222,
+    "precipitation": 415.0000000000003,
+    "wind_speed": 9.458194444444448
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 28.347043010752703,
+    "humidity": 84.02553763440861,
+    "precipitation": 176.69999999999982,
+    "wind_speed": 6.9721774193548365
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 23.794722222222223,
+    "humidity": 78.03888888888889,
+    "precipitation": 48.80000000000001,
+    "wind_speed": 6.6870833333333355
+  },
+  {
+    "city": "Kolkata",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 19.81854838709677,
+    "humidity": 79.9475806451613,
+    "precipitation": 142.0999999999999,
+    "wind_speed": 7.468548387096782
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 18.47096774193548,
+    "humidity": 79.98118279569893,
+    "precipitation": 28.50000000000003,
+    "wind_speed": 7.39569892473119
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 20.93839285714285,
+    "humidity": 76.25297619047619,
+    "precipitation": 46.600000000000016,
+    "wind_speed": 7.305505952380945
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 27.44596774193547,
+    "humidity": 70.41801075268818,
+    "precipitation": 3.1,
+    "wind_speed": 9.641935483870961
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 30.482916666666657,
+    "humidity": 77.38055555555556,
+    "precipitation": 2.9,
+    "wind_speed": 15.225694444444411
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 30.1180107526882,
+    "humidity": 77.5725806451613,
+    "precipitation": 92.9999999999999,
+    "wind_speed": 11.368548387096775
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 30.44999999999995,
+    "humidity": 80.26527777777778,
+    "precipitation": 117.99999999999984,
+    "wind_speed": 14.295555555555534
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 29.663306451612883,
+    "humidity": 83.79032258064517,
+    "precipitation": 183.79999999999933,
+    "wind_speed": 11.589516129032257
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 29.268951612903223,
+    "humidity": 85.72043010752688,
+    "precipitation": 278.3000000000004,
+    "wind_speed": 10.35094086021504
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 29.20097222222222,
+    "humidity": 85.3875,
+    "precipitation": 258.49999999999943,
+    "wind_speed": 8.594444444444445
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 27.52782258064516,
+    "humidity": 82.4489247311828,
+    "precipitation": 186.89999999999986,
+    "wind_speed": 7.586693548387094
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 23.470277777777795,
+    "humidity": 75.02083333333333,
+    "precipitation": 0.0,
+    "wind_speed": 7.681111111111107
+  },
+  {
+    "city": "Kolkata",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 20.49650537634409,
+    "humidity": 74.98521505376344,
+    "precipitation": 0.0,
+    "wind_speed": 7.787365591397854
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 19.59072580645162,
+    "humidity": 77.25268817204301,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 7.634946236559141
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 23.645535714285714,
+    "humidity": 71.36607142857143,
+    "precipitation": 1.3,
+    "wind_speed": 7.324851190476184
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 26.59287634408602,
+    "humidity": 72.61559139784946,
+    "precipitation": 76.6,
+    "wind_speed": 6.93897849462366
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 30.132500000000018,
+    "humidity": 69.74861111111112,
+    "precipitation": 41.400000000000006,
+    "wind_speed": 7.33013888888889
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.60026881720432,
+    "humidity": 74.96370967741936,
+    "precipitation": 58.900000000000055,
+    "wind_speed": 10.143279569892472
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 31.346527777777737,
+    "humidity": 78.74444444444444,
+    "precipitation": 120.99999999999979,
+    "wind_speed": 11.66083333333333
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 30.056451612903235,
+    "humidity": 84.50806451612904,
+    "precipitation": 169.7999999999995,
+    "wind_speed": 10.903629032258063
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 29.436290322580664,
+    "humidity": 85.63440860215054,
+    "precipitation": 371.00000000000085,
+    "wind_speed": 9.350537634408598
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 29.23347222222217,
+    "humidity": 87.35,
+    "precipitation": 337.0,
+    "wind_speed": 9.250833333333322
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 28.19623655913979,
+    "humidity": 81.8024193548387,
+    "precipitation": 121.49999999999982,
+    "wind_speed": 7.282123655913989
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 24.91652777777779,
+    "humidity": 76.73611111111111,
+    "precipitation": 13.7,
+    "wind_speed": 6.989861111111105
+  },
+  {
+    "city": "Kolkata",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 20.560618279569876,
+    "humidity": 76.98655913978494,
+    "precipitation": 38.2,
+    "wind_speed": 8.146102150537635
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 17.876344086021497,
+    "humidity": 79.83198924731182,
+    "precipitation": 21.800000000000008,
+    "wind_speed": 7.25887096774193
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 22.599281609195405,
+    "humidity": 74.66235632183908,
+    "precipitation": 11.899999999999993,
+    "wind_speed": 7.238218390804586
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 26.51680107526883,
+    "humidity": 75.23118279569893,
+    "precipitation": 55.2,
+    "wind_speed": 7.304973118279557
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 31.73819444444446,
+    "humidity": 67.03055555555555,
+    "precipitation": 9.200000000000001,
+    "wind_speed": 8.839305555555544
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 30.52177419354836,
+    "humidity": 78.99731182795699,
+    "precipitation": 345.6999999999999,
+    "wind_speed": 12.049462365591411
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 31.381111111111164,
+    "humidity": 82.2,
+    "precipitation": 94.00000000000001,
+    "wind_speed": 12.965972222222227
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 29.92271505376344,
+    "humidity": 86.54435483870968,
+    "precipitation": 290.499999999999,
+    "wind_speed": 11.183333333333321
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 29.089112903225825,
+    "humidity": 88.7258064516129,
+    "precipitation": 446.80000000000007,
+    "wind_speed": 8.971505376344094
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 29.515138888888846,
+    "humidity": 86.6875,
+    "precipitation": 403.8000000000009,
+    "wind_speed": 9.555694444444448
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 28.69529569892471,
+    "humidity": 86.18145161290323,
+    "precipitation": 179.19999999999968,
+    "wind_speed": 6.800537634408596
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 24.671111111111117,
+    "humidity": 77.91388888888889,
+    "precipitation": 13.1,
+    "wind_speed": 6.661388888888895
+  },
+  {
+    "city": "Kolkata",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 20.300940860215025,
+    "humidity": 75.40456989247312,
+    "precipitation": 4.300000000000001,
+    "wind_speed": 7.4991935483870975
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 19.32405913978494,
+    "humidity": 78.3991935483871,
+    "precipitation": 0.6,
+    "wind_speed": 7.550268817204305
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 23.66919642857143,
+    "humidity": 76.87946428571429,
+    "precipitation": 20.8,
+    "wind_speed": 6.186607142857145
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 27.644623655913982,
+    "humidity": 70.77822580645162,
+    "precipitation": 10.299999999999999,
+    "wind_speed": 8.261559139784953
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 29.40930555555555,
+    "humidity": 77.54861111111111,
+    "precipitation": 116.69999999999995,
+    "wind_speed": 10.577916666666665
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 30.016397849462365,
+    "humidity": 79.61290322580645,
+    "precipitation": 137.79999999999993,
+    "wind_speed": 10.425268817204318
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 29.858472222222236,
+    "humidity": 84.46944444444445,
+    "precipitation": 464.50000000000074,
+    "wind_speed": 9.26361111111111
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 28.954838709677407,
+    "humidity": 88.47177419354838,
+    "precipitation": 527.6000000000005,
+    "wind_speed": 8.960752688172056
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 29.044220430107504,
+    "humidity": 86.78763440860214,
+    "precipitation": 286.5,
+    "wind_speed": 10.502553763440858
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 29.439305555555556,
+    "humidity": 85.11666666666666,
+    "precipitation": 272.0,
+    "wind_speed": 7.974861111111118
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 28.177419354838726,
+    "humidity": 83.77016129032258,
+    "precipitation": 128.49999999999994,
+    "wind_speed": 7.451344086021507
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 23.217777777777798,
+    "humidity": 74.34722222222223,
+    "precipitation": 8.699999999999998,
+    "wind_speed": 7.80430555555556
+  },
+  {
+    "city": "Kolkata",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 18.85470430107526,
+    "humidity": 76.34139784946237,
+    "precipitation": 0.4,
+    "wind_speed": 8.202150537634411
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 14.302284946236554,
+    "humidity": 79.21639784946237,
+    "precipitation": 1.4,
+    "wind_speed": 7.764784946236565
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 19.500744047619065,
+    "humidity": 67.36607142857143,
+    "precipitation": 2.1999999999999997,
+    "wind_speed": 8.647767857142853
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 25.83561827956989,
+    "humidity": 51.73790322580645,
+    "precipitation": 3.0,
+    "wind_speed": 10.245295698924735
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 30.76791666666668,
+    "humidity": 31.729166666666668,
+    "precipitation": 3.7,
+    "wind_speed": 10.378194444444434
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 30.01034946236563,
+    "humidity": 61.67338709677419,
+    "precipitation": 84.6,
+    "wind_speed": 9.502822580645152
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 30.2188888888889,
+    "humidity": 75.62777777777778,
+    "precipitation": 154.5999999999999,
+    "wind_speed": 8.573333333333315
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 30.886559139784964,
+    "humidity": 78.20430107526882,
+    "precipitation": 144.7999999999999,
+    "wind_speed": 10.179301075268825
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 29.54825268817206,
+    "humidity": 82.81989247311827,
+    "precipitation": 161.79999999999987,
+    "wind_speed": 10.180376344086016
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 29.107361111111146,
+    "humidity": 83.78194444444445,
+    "precipitation": 303.1999999999998,
+    "wind_speed": 11.74569444444444
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 26.74677419354836,
+    "humidity": 77.22983870967742,
+    "precipitation": 35.50000000000001,
+    "wind_speed": 7.334811827956994
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 19.989444444444437,
+    "humidity": 74.52638888888889,
+    "precipitation": 1.7000000000000002,
+    "wind_speed": 6.662500000000001
+  },
+  {
+    "city": "Lucknow",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 16.062768817204326,
+    "humidity": 76.71505376344086,
+    "precipitation": 12.199999999999998,
+    "wind_speed": 7.197715053763434
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 13.511827956989267,
+    "humidity": 84.95161290322581,
+    "precipitation": 36.49999999999999,
+    "wind_speed": 7.765053763440869
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 17.12202380952382,
+    "humidity": 73.75595238095238,
+    "precipitation": 18.300000000000008,
+    "wind_speed": 10.138839285714282
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 25.760080645161292,
+    "humidity": 57.45295698924731,
+    "precipitation": 0.0,
+    "wind_speed": 9.059139784946227
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 31.86972222222221,
+    "humidity": 40.452777777777776,
+    "precipitation": 1.5,
+    "wind_speed": 9.680000000000007
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 33.0072580645161,
+    "humidity": 53.61693548387097,
+    "precipitation": 23.7,
+    "wind_speed": 10.200940860215066
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 34.235833333333325,
+    "humidity": 53.269444444444446,
+    "precipitation": 169.0,
+    "wind_speed": 10.60319444444446
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 31.45577956989247,
+    "humidity": 75.3010752688172,
+    "precipitation": 211.39999999999978,
+    "wind_speed": 11.878629032258075
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 29.97137096774196,
+    "humidity": 81.47043010752688,
+    "precipitation": 189.59999999999982,
+    "wind_speed": 11.23736559139784
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 28.781666666666634,
+    "humidity": 85.30555555555556,
+    "precipitation": 245.5999999999998,
+    "wind_speed": 9.896111111111109
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 25.626344086021536,
+    "humidity": 80.63575268817205,
+    "precipitation": 168.19999999999987,
+    "wind_speed": 7.139112903225808
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 20.791527777777787,
+    "humidity": 73.72361111111111,
+    "precipitation": 0.8,
+    "wind_speed": 7.695555555555557
+  },
+  {
+    "city": "Lucknow",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 16.059811827956988,
+    "humidity": 76.02284946236558,
+    "precipitation": 2.6,
+    "wind_speed": 8.25255376344086
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 13.671908602150545,
+    "humidity": 81.65053763440861,
+    "precipitation": 3.8000000000000007,
+    "wind_speed": 7.799327956989253
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 19.81979166666667,
+    "humidity": 68.77380952380952,
+    "precipitation": 0.0,
+    "wind_speed": 9.419345238095232
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 24.233602150537656,
+    "humidity": 62.903225806451616,
+    "precipitation": 49.90000000000001,
+    "wind_speed": 9.169758064516126
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 28.504444444444417,
+    "humidity": 45.65694444444444,
+    "precipitation": 22.50000000000001,
+    "wind_speed": 9.925972222222224
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.779973118279578,
+    "humidity": 52.321236559139784,
+    "precipitation": 52.30000000000005,
+    "wind_speed": 8.429973118279573
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 33.52111111111109,
+    "humidity": 55.077777777777776,
+    "precipitation": 101.20000000000002,
+    "wind_speed": 12.838611111111113
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 30.60470430107529,
+    "humidity": 81.79032258064517,
+    "precipitation": 236.09999999999948,
+    "wind_speed": 9.877822580645164
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 29.866129032258087,
+    "humidity": 82.07795698924731,
+    "precipitation": 262.79999999999984,
+    "wind_speed": 10.39892473118279
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 29.581527777777804,
+    "humidity": 82.52222222222223,
+    "precipitation": 180.1999999999995,
+    "wind_speed": 8.42138888888889
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 26.54448924731183,
+    "humidity": 71.78629032258064,
+    "precipitation": 15.199999999999996,
+    "wind_speed": 6.154166666666671
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 21.489722222222237,
+    "humidity": 75.10972222222222,
+    "precipitation": 2.7,
+    "wind_speed": 6.46166666666668
+  },
+  {
+    "city": "Lucknow",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 16.7497311827957,
+    "humidity": 79.4489247311828,
+    "precipitation": 17.600000000000005,
+    "wind_speed": 7.205913978494624
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 12.30376344086021,
+    "humidity": 85.30645161290323,
+    "precipitation": 9.199999999999998,
+    "wind_speed": 6.55309139784946
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 17.760344827586184,
+    "humidity": 69.09482758620689,
+    "precipitation": 18.60000000000001,
+    "wind_speed": 8.9867816091954
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 23.08037634408603,
+    "humidity": 60.47043010752688,
+    "precipitation": 29.50000000000001,
+    "wind_speed": 8.760080645161283
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 31.450694444444434,
+    "humidity": 32.96527777777778,
+    "precipitation": 0.7,
+    "wind_speed": 12.09625
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 34.02473118279573,
+    "humidity": 43.259408602150536,
+    "precipitation": 5.4,
+    "wind_speed": 11.440322580645162
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 35.252777777777816,
+    "humidity": 50.59583333333333,
+    "precipitation": 147.39999999999992,
+    "wind_speed": 10.952222222222218
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 30.969623655913992,
+    "humidity": 82.90591397849462,
+    "precipitation": 239.79999999999927,
+    "wind_speed": 9.263844086021503
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 29.44314516129034,
+    "humidity": 87.19489247311827,
+    "precipitation": 317.2999999999998,
+    "wind_speed": 7.826612903225806
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 29.09013888888888,
+    "humidity": 85.42916666666666,
+    "precipitation": 241.59999999999954,
+    "wind_speed": 9.784861111111107
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 27.94879032258063,
+    "humidity": 77.09677419354838,
+    "precipitation": 4.300000000000001,
+    "wind_speed": 6.413575268817206
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 21.91722222222223,
+    "humidity": 74.85972222222222,
+    "precipitation": 0.6,
+    "wind_speed": 6.256944444444443
+  },
+  {
+    "city": "Lucknow",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 16.064247311827945,
+    "humidity": 74.4247311827957,
+    "precipitation": 9.599999999999998,
+    "wind_speed": 8.041397849462367
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 14.44059139784944,
+    "humidity": 81.59677419354838,
+    "precipitation": 1.3,
+    "wind_speed": 8.082392473118276
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 19.51517857142857,
+    "humidity": 66.30208333333333,
+    "precipitation": 0.1,
+    "wind_speed": 9.887351190476183
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 24.736962365591413,
+    "humidity": 50.93413978494624,
+    "precipitation": 1.4000000000000001,
+    "wind_speed": 10.482795698924726
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 30.46500000000001,
+    "humidity": 44.611111111111114,
+    "precipitation": 7.299999999999998,
+    "wind_speed": 11.280972222222214
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 32.806854838709675,
+    "humidity": 52.365591397849464,
+    "precipitation": 9.599999999999994,
+    "wind_speed": 11.341129032258063
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 32.70111111111114,
+    "humidity": 64.57083333333334,
+    "precipitation": 131.5999999999998,
+    "wind_speed": 10.093333333333321
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 30.262231182795706,
+    "humidity": 81.65456989247312,
+    "precipitation": 188.39999999999966,
+    "wind_speed": 10.417473118279569
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 29.314247311827955,
+    "humidity": 86.55510752688173,
+    "precipitation": 253.29999999999927,
+    "wind_speed": 11.180645161290306
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 29.521805555555556,
+    "humidity": 84.42777777777778,
+    "precipitation": 222.59999999999957,
+    "wind_speed": 8.024722222222218
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 25.854301075268786,
+    "humidity": 78.29301075268818,
+    "precipitation": 72.99999999999997,
+    "wind_speed": 7.2032258064516155
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 20.11250000000002,
+    "humidity": 70.63888888888889,
+    "precipitation": 1.0,
+    "wind_speed": 8.019444444444444
+  },
+  {
+    "city": "Lucknow",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 14.83279569892474,
+    "humidity": 80.86155913978494,
+    "precipitation": 0.0,
+    "wind_speed": 6.803629032258057
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 25.08104838709677,
+    "humidity": 70.65053763440861,
+    "precipitation": 1.3,
+    "wind_speed": 9.277553763440864
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 25.672023809523797,
+    "humidity": 63.60267857142857,
+    "precipitation": 0.4,
+    "wind_speed": 9.07053571428572
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 28.209811827957,
+    "humidity": 63.25403225806452,
+    "precipitation": 0.0,
+    "wind_speed": 9.574865591397844
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 28.982916666666657,
+    "humidity": 74.67777777777778,
+    "precipitation": 1.4,
+    "wind_speed": 8.704999999999986
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 29.881048387096726,
+    "humidity": 75.54301075268818,
+    "precipitation": 154.59999999999965,
+    "wind_speed": 12.35161290322581
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 27.77722222222225,
+    "humidity": 85.89722222222223,
+    "precipitation": 264.6000000000003,
+    "wind_speed": 13.066388888888895
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 27.640994623655885,
+    "humidity": 86.77688172043011,
+    "precipitation": 675.7000000000002,
+    "wind_speed": 16.064247311827973
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 26.904838709677396,
+    "humidity": 86.88306451612904,
+    "precipitation": 295.8999999999995,
+    "wind_speed": 12.531451612903222
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 26.91430555555558,
+    "humidity": 88.21944444444445,
+    "precipitation": 388.60000000000105,
+    "wind_speed": 13.966527777777785
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 27.954973118279586,
+    "humidity": 76.78091397849462,
+    "precipitation": 28.89999999999999,
+    "wind_speed": 8.180645161290323
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 27.62833333333333,
+    "humidity": 72.89583333333333,
+    "precipitation": 34.90000000000001,
+    "wind_speed": 8.118194444444434
+  },
+  {
+    "city": "Mumbai",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 24.547983870967734,
+    "humidity": 76.03494623655914,
+    "precipitation": 66.39999999999999,
+    "wind_speed": 9.202284946236553
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 22.999596774193574,
+    "humidity": 71.20833333333333,
+    "precipitation": 15.399999999999991,
+    "wind_speed": 9.417069892473114
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 24.22157738095237,
+    "humidity": 68.00446428571429,
+    "precipitation": 0.0,
+    "wind_speed": 8.85803571428572
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 28.336021505376358,
+    "humidity": 63.13709677419355,
+    "precipitation": 0.1,
+    "wind_speed": 9.176612903225797
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 29.35569444444445,
+    "humidity": 73.71805555555555,
+    "precipitation": 0.3,
+    "wind_speed": 9.34805555555555
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 30.110887096774217,
+    "humidity": 73.73655913978494,
+    "precipitation": 5.499999999999998,
+    "wind_speed": 12.469086021505376
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 28.722222222222246,
+    "humidity": 80.33472222222223,
+    "precipitation": 340.5999999999998,
+    "wind_speed": 14.228194444444448
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 26.95591397849462,
+    "humidity": 88.78897849462365,
+    "precipitation": 841.5,
+    "wind_speed": 17.071370967741935
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 27.053091397849443,
+    "humidity": 87.12768817204301,
+    "precipitation": 551.0000000000015,
+    "wind_speed": 17.0040322580645
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 27.03611111111111,
+    "humidity": 86.90833333333333,
+    "precipitation": 352.6000000000018,
+    "wind_speed": 9.42347222222221
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 27.218010752688187,
+    "humidity": 78.84677419354838,
+    "precipitation": 189.29999999999973,
+    "wind_speed": 7.655376344086023
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 25.803194444444433,
+    "humidity": 68.10694444444445,
+    "precipitation": 0.0,
+    "wind_speed": 8.890277777777786
+  },
+  {
+    "city": "Mumbai",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 25.766801075268837,
+    "humidity": 69.20161290322581,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 8.738844086021501
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 23.13467741935483,
+    "humidity": 69.48118279569893,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 9.733333333333329
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 25.779315476190472,
+    "humidity": 58.91220238095238,
+    "precipitation": 0.0,
+    "wind_speed": 9.835267857142858
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 27.05188172043013,
+    "humidity": 66.63037634408602,
+    "precipitation": 6.599999999999993,
+    "wind_speed": 8.484274193548394
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 29.1552777777778,
+    "humidity": 67.96944444444445,
+    "precipitation": 1.0999999999999999,
+    "wind_speed": 9.814166666666667
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 30.153897849462343,
+    "humidity": 73.45833333333333,
+    "precipitation": 3.7000000000000006,
+    "wind_speed": 10.23440860215054
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 29.58791666666664,
+    "humidity": 79.275,
+    "precipitation": 383.2000000000023,
+    "wind_speed": 17.246249999999993
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 27.15282258064518,
+    "humidity": 90.00672043010752,
+    "precipitation": 1076.0000000000002,
+    "wind_speed": 17.871774193548394
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 27.36129032258064,
+    "humidity": 86.17204301075269,
+    "precipitation": 170.99999999999977,
+    "wind_speed": 14.577688172042995
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 27.57222222222221,
+    "humidity": 86.62222222222222,
+    "precipitation": 424.2000000000001,
+    "wind_speed": 9.988472222222223
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 28.912500000000012,
+    "humidity": 74.34543010752688,
+    "precipitation": 2.700000000000001,
+    "wind_speed": 8.13467741935483
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 27.869722222222233,
+    "humidity": 69.72222222222223,
+    "precipitation": 9.099999999999998,
+    "wind_speed": 8.212638888888886
+  },
+  {
+    "city": "Mumbai",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 26.342338709677424,
+    "humidity": 67.06048387096774,
+    "precipitation": 0.0,
+    "wind_speed": 8.965725806451617
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 24.795026881720432,
+    "humidity": 65.91801075268818,
+    "precipitation": 0.6,
+    "wind_speed": 9.320161290322577
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 25.571264367816084,
+    "humidity": 64.09051724137932,
+    "precipitation": 0.0,
+    "wind_speed": 10.147413793103437
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 26.877956989247288,
+    "humidity": 65.93548387096774,
+    "precipitation": 0.7000000000000001,
+    "wind_speed": 10.410080645161283
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 29.625138888888873,
+    "humidity": 67.96666666666667,
+    "precipitation": 0.0,
+    "wind_speed": 10.837222222222232
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 30.41142473118277,
+    "humidity": 76.10215053763442,
+    "precipitation": 7.199999999999998,
+    "wind_speed": 11.09408602150538
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 29.285416666666677,
+    "humidity": 82.63055555555556,
+    "precipitation": 311.8999999999994,
+    "wind_speed": 13.731249999999987
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 27.575134408602157,
+    "humidity": 89.34543010752688,
+    "precipitation": 886.3000000000002,
+    "wind_speed": 20.740725806451586
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 27.613575268817204,
+    "humidity": 87.51075268817205,
+    "precipitation": 402.8999999999991,
+    "wind_speed": 14.689112903225825
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 27.339027777777787,
+    "humidity": 86.25833333333334,
+    "precipitation": 378.19999999999953,
+    "wind_speed": 10.801944444444445
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 28.570698924731197,
+    "humidity": 81.81317204301075,
+    "precipitation": 111.09999999999995,
+    "wind_speed": 6.246908602150538
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 26.913749999999972,
+    "humidity": 65.97361111111111,
+    "precipitation": 0.0,
+    "wind_speed": 9.001388888888888
+  },
+  {
+    "city": "Mumbai",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 25.081854838709674,
+    "humidity": 69.39247311827957,
+    "precipitation": 0.1,
+    "wind_speed": 9.181317204301083
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 25.056451612903203,
+    "humidity": 67.16129032258064,
+    "precipitation": 0.0,
+    "wind_speed": 9.736021505376327
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 26.37723214285713,
+    "humidity": 59.398809523809526,
+    "precipitation": 0.0,
+    "wind_speed": 10.191071428571423
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 28.384005376344057,
+    "humidity": 61.87231182795699,
+    "precipitation": 0.0,
+    "wind_speed": 9.974059139784949
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 29.567222222222245,
+    "humidity": 72.65555555555555,
+    "precipitation": 1.0,
+    "wind_speed": 9.642916666666672
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 29.202016129032312,
+    "humidity": 78.96505376344086,
+    "precipitation": 199.79999999999984,
+    "wind_speed": 10.132661290322591
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 28.346249999999973,
+    "humidity": 85.6763888888889,
+    "precipitation": 515.6999999999997,
+    "wind_speed": 17.44805555555555
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 27.266666666666683,
+    "humidity": 88.33870967741936,
+    "precipitation": 415.99999999999903,
+    "wind_speed": 18.829704301075257
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 26.86397849462363,
+    "humidity": 88.45564516129032,
+    "precipitation": 534.0000000000006,
+    "wind_speed": 14.410752688172044
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 26.756666666666685,
+    "humidity": 86.89444444444445,
+    "precipitation": 442.0000000000012,
+    "wind_speed": 10.83138888888889
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 28.07298387096771,
+    "humidity": 78.29032258064517,
+    "precipitation": 114.1999999999999,
+    "wind_speed": 10.24005376344087
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 25.857083333333346,
+    "humidity": 69.56388888888888,
+    "precipitation": 12.09999999999998,
+    "wind_speed": 8.92055555555556
+  },
+  {
+    "city": "Mumbai",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 24.28010752688168,
+    "humidity": 59.76747311827957,
+    "precipitation": 0.0,
+    "wind_speed": 9.106451612903225
+  },
+  {
+    "city": "Pune",
+    "month": "2021-01",
+    "records": 744,
+    "temperature": 23.397715053763427,
+    "humidity": 69.34811827956989,
+    "precipitation": 13.6,
+    "wind_speed": 5.8645161290322605
+  },
+  {
+    "city": "Pune",
+    "month": "2021-02",
+    "records": 672,
+    "temperature": 23.397916666666674,
+    "humidity": 56.080357142857146,
+    "precipitation": 3.6000000000000005,
+    "wind_speed": 7.567559523809517
+  },
+  {
+    "city": "Pune",
+    "month": "2021-03",
+    "records": 744,
+    "temperature": 27.29556451612906,
+    "humidity": 46.9744623655914,
+    "precipitation": 3.9000000000000004,
+    "wind_speed": 7.091666666666661
+  },
+  {
+    "city": "Pune",
+    "month": "2021-04",
+    "records": 720,
+    "temperature": 28.43791666666667,
+    "humidity": 57.36388888888889,
+    "precipitation": 15.999999999999998,
+    "wind_speed": 7.2233333333333345
+  },
+  {
+    "city": "Pune",
+    "month": "2021-05",
+    "records": 744,
+    "temperature": 27.898387096774215,
+    "humidity": 72.28494623655914,
+    "precipitation": 81.20000000000002,
+    "wind_speed": 10.778629032258058
+  },
+  {
+    "city": "Pune",
+    "month": "2021-06",
+    "records": 720,
+    "temperature": 25.20499999999999,
+    "humidity": 87.86527777777778,
+    "precipitation": 197.69999999999968,
+    "wind_speed": 11.116388888888888
+  },
+  {
+    "city": "Pune",
+    "month": "2021-07",
+    "records": 744,
+    "temperature": 24.897983870967725,
+    "humidity": 90.21505376344086,
+    "precipitation": 372.9999999999997,
+    "wind_speed": 14.099865591397865
+  },
+  {
+    "city": "Pune",
+    "month": "2021-08",
+    "records": 744,
+    "temperature": 24.35900537634407,
+    "humidity": 89.42204301075269,
+    "precipitation": 199.10000000000005,
+    "wind_speed": 11.682123655913978
+  },
+  {
+    "city": "Pune",
+    "month": "2021-09",
+    "records": 720,
+    "temperature": 24.4341666666667,
+    "humidity": 90.54166666666667,
+    "precipitation": 199.49999999999955,
+    "wind_speed": 11.62486111111111
+  },
+  {
+    "city": "Pune",
+    "month": "2021-10",
+    "records": 744,
+    "temperature": 25.14220430107528,
+    "humidity": 75.7513440860215,
+    "precipitation": 60.90000000000003,
+    "wind_speed": 6.381317204301068
+  },
+  {
+    "city": "Pune",
+    "month": "2021-11",
+    "records": 720,
+    "temperature": 24.49805555555556,
+    "humidity": 73.37777777777778,
+    "precipitation": 37.40000000000001,
+    "wind_speed": 8.989861111111113
+  },
+  {
+    "city": "Pune",
+    "month": "2021-12",
+    "records": 744,
+    "temperature": 21.35752688172042,
+    "humidity": 76.33467741935483,
+    "precipitation": 55.20000000000002,
+    "wind_speed": 6.986290322580649
+  },
+  {
+    "city": "Pune",
+    "month": "2022-01",
+    "records": 744,
+    "temperature": 20.42486559139785,
+    "humidity": 69.98521505376344,
+    "precipitation": 6.699999999999996,
+    "wind_speed": 7.243951612903222
+  },
+  {
+    "city": "Pune",
+    "month": "2022-02",
+    "records": 672,
+    "temperature": 23.161755952380936,
+    "humidity": 54.80952380952381,
+    "precipitation": 0.0,
+    "wind_speed": 6.752976190476186
+  },
+  {
+    "city": "Pune",
+    "month": "2022-03",
+    "records": 744,
+    "temperature": 27.35833333333332,
+    "humidity": 50.60349462365591,
+    "precipitation": 1.1000000000000003,
+    "wind_speed": 7.561559139784944
+  },
+  {
+    "city": "Pune",
+    "month": "2022-04",
+    "records": 720,
+    "temperature": 29.49944444444442,
+    "humidity": 56.855555555555554,
+    "precipitation": 6.799999999999998,
+    "wind_speed": 7.701805555555562
+  },
+  {
+    "city": "Pune",
+    "month": "2022-05",
+    "records": 744,
+    "temperature": 28.65698924731184,
+    "humidity": 67.2486559139785,
+    "precipitation": 5.500000000000001,
+    "wind_speed": 13.09314516129032
+  },
+  {
+    "city": "Pune",
+    "month": "2022-06",
+    "records": 720,
+    "temperature": 26.660694444444424,
+    "humidity": 79.61666666666666,
+    "precipitation": 127.79999999999987,
+    "wind_speed": 10.655277777777782
+  },
+  {
+    "city": "Pune",
+    "month": "2022-07",
+    "records": 744,
+    "temperature": 24.324327956989247,
+    "humidity": 91.67069892473118,
+    "precipitation": 544.2000000000016,
+    "wind_speed": 14.675134408602176
+  },
+  {
+    "city": "Pune",
+    "month": "2022-08",
+    "records": 744,
+    "temperature": 24.4768817204301,
+    "humidity": 89.69086021505376,
+    "precipitation": 354.5000000000019,
+    "wind_speed": 14.018548387096773
+  },
+  {
+    "city": "Pune",
+    "month": "2022-09",
+    "records": 720,
+    "temperature": 24.562222222222236,
+    "humidity": 89.25,
+    "precipitation": 197.19999999999945,
+    "wind_speed": 8.07069444444445
+  },
+  {
+    "city": "Pune",
+    "month": "2022-10",
+    "records": 744,
+    "temperature": 24.182661290322596,
+    "humidity": 79.75537634408602,
+    "precipitation": 193.09999999999974,
+    "wind_speed": 7.488440860215051
+  },
+  {
+    "city": "Pune",
+    "month": "2022-11",
+    "records": 720,
+    "temperature": 22.611527777777752,
+    "humidity": 65.30833333333334,
+    "precipitation": 0.7,
+    "wind_speed": 8.086250000000009
+  },
+  {
+    "city": "Pune",
+    "month": "2022-12",
+    "records": 744,
+    "temperature": 23.244758064516123,
+    "humidity": 65.37903225806451,
+    "precipitation": 2.9000000000000012,
+    "wind_speed": 7.010887096774196
+  },
+  {
+    "city": "Pune",
+    "month": "2023-01",
+    "records": 744,
+    "temperature": 21.86129032258065,
+    "humidity": 61.06586021505376,
+    "precipitation": 0.0,
+    "wind_speed": 6.854838709677418
+  },
+  {
+    "city": "Pune",
+    "month": "2023-02",
+    "records": 672,
+    "temperature": 24.17589285714284,
+    "humidity": 45.11607142857143,
+    "precipitation": 0.0,
+    "wind_speed": 7.891517857142855
+  },
+  {
+    "city": "Pune",
+    "month": "2023-03",
+    "records": 744,
+    "temperature": 24.936290322580682,
+    "humidity": 56.498655913978496,
+    "precipitation": 9.399999999999999,
+    "wind_speed": 7.614381720430113
+  },
+  {
+    "city": "Pune",
+    "month": "2023-04",
+    "records": 720,
+    "temperature": 27.69027777777774,
+    "humidity": 59.42777777777778,
+    "precipitation": 23.800000000000004,
+    "wind_speed": 7.087361111111118
+  },
+  {
+    "city": "Pune",
+    "month": "2023-05",
+    "records": 744,
+    "temperature": 28.533467741935485,
+    "humidity": 68.15188172043011,
+    "precipitation": 35.000000000000014,
+    "wind_speed": 9.53346774193548
+  },
+  {
+    "city": "Pune",
+    "month": "2023-06",
+    "records": 720,
+    "temperature": 27.498055555555574,
+    "humidity": 77.87638888888888,
+    "precipitation": 217.1999999999995,
+    "wind_speed": 14.299027777777788
+  },
+  {
+    "city": "Pune",
+    "month": "2023-07",
+    "records": 744,
+    "temperature": 24.593145161290316,
+    "humidity": 92.59811827956989,
+    "precipitation": 530.6000000000016,
+    "wind_speed": 15.353763440860211
+  },
+  {
+    "city": "Pune",
+    "month": "2023-08",
+    "records": 744,
+    "temperature": 24.84395161290321,
+    "humidity": 88.34274193548387,
+    "precipitation": 94.3999999999999,
+    "wind_speed": 13.97526881720429
+  },
+  {
+    "city": "Pune",
+    "month": "2023-09",
+    "records": 720,
+    "temperature": 24.916111111111128,
+    "humidity": 89.40833333333333,
+    "precipitation": 263.6999999999995,
+    "wind_speed": 10.585972222222223
+  },
+  {
+    "city": "Pune",
+    "month": "2023-10",
+    "records": 744,
+    "temperature": 25.769354838709646,
+    "humidity": 71.20564516129032,
+    "precipitation": 14.499999999999995,
+    "wind_speed": 6.799462365591397
+  },
+  {
+    "city": "Pune",
+    "month": "2023-11",
+    "records": 720,
+    "temperature": 24.440972222222207,
+    "humidity": 69.72916666666667,
+    "precipitation": 23.100000000000012,
+    "wind_speed": 7.443472222222221
+  },
+  {
+    "city": "Pune",
+    "month": "2023-12",
+    "records": 744,
+    "temperature": 22.728225806451608,
+    "humidity": 66.76747311827957,
+    "precipitation": 0.5,
+    "wind_speed": 7.7418010752688105
+  },
+  {
+    "city": "Pune",
+    "month": "2024-01",
+    "records": 744,
+    "temperature": 22.291129032258052,
+    "humidity": 63.26209677419355,
+    "precipitation": 4.200000000000001,
+    "wind_speed": 6.861290322580639
+  },
+  {
+    "city": "Pune",
+    "month": "2024-02",
+    "records": 696,
+    "temperature": 24.319540229885042,
+    "humidity": 52.375,
+    "precipitation": 0.30000000000000004,
+    "wind_speed": 7.1024425287356285
+  },
+  {
+    "city": "Pune",
+    "month": "2024-03",
+    "records": 744,
+    "temperature": 26.741935483870957,
+    "humidity": 48.748655913978496,
+    "precipitation": 0.4,
+    "wind_speed": 7.937499999999995
+  },
+  {
+    "city": "Pune",
+    "month": "2024-04",
+    "records": 720,
+    "temperature": 30.03611111111108,
+    "humidity": 48.4875,
+    "precipitation": 10.299999999999997,
+    "wind_speed": 7.718055555555559
+  },
+  {
+    "city": "Pune",
+    "month": "2024-05",
+    "records": 744,
+    "temperature": 29.186424731182775,
+    "humidity": 65.56451612903226,
+    "precipitation": 33.9,
+    "wind_speed": 10.490860215053765
+  },
+  {
+    "city": "Pune",
+    "month": "2024-06",
+    "records": 720,
+    "temperature": 26.655138888888875,
+    "humidity": 85.06666666666666,
+    "precipitation": 221.8999999999995,
+    "wind_speed": 11.258611111111115
+  },
+  {
+    "city": "Pune",
+    "month": "2024-07",
+    "records": 744,
+    "temperature": 24.796102150537628,
+    "humidity": 93.49327956989248,
+    "precipitation": 603.0000000000005,
+    "wind_speed": 16.605107526881717
+  },
+  {
+    "city": "Pune",
+    "month": "2024-08",
+    "records": 744,
+    "temperature": 25.113844086021555,
+    "humidity": 90.95161290322581,
+    "precipitation": 289.40000000000003,
+    "wind_speed": 12.101209677419353
+  },
+  {
+    "city": "Pune",
+    "month": "2024-09",
+    "records": 720,
+    "temperature": 24.825277777777774,
+    "humidity": 89.25833333333334,
+    "precipitation": 287.00000000000006,
+    "wind_speed": 10.623472222222226
+  },
+  {
+    "city": "Pune",
+    "month": "2024-10",
+    "records": 744,
+    "temperature": 26.082661290322566,
+    "humidity": 80.98521505376344,
+    "precipitation": 105.1,
+    "wind_speed": 6.439919354838715
+  },
+  {
+    "city": "Pune",
+    "month": "2024-11",
+    "records": 720,
+    "temperature": 22.988194444444453,
+    "humidity": 64.96527777777777,
+    "precipitation": 0.7,
+    "wind_speed": 8.569583333333332
+  },
+  {
+    "city": "Pune",
+    "month": "2024-12",
+    "records": 744,
+    "temperature": 22.717204301075267,
+    "humidity": 67.99462365591398,
+    "precipitation": 3.6000000000000005,
+    "wind_speed": 7.392607526881732
+  },
+  {
+    "city": "Pune",
+    "month": "2025-01",
+    "records": 744,
+    "temperature": 23.17069892473119,
+    "humidity": 59.58064516129032,
+    "precipitation": 0.0,
+    "wind_speed": 7.243413978494621
+  },
+  {
+    "city": "Pune",
+    "month": "2025-02",
+    "records": 672,
+    "temperature": 25.45550595238093,
+    "humidity": 47.989583333333336,
+    "precipitation": 0.0,
+    "wind_speed": 6.805059523809526
+  },
+  {
+    "city": "Pune",
+    "month": "2025-03",
+    "records": 744,
+    "temperature": 28.089784946236538,
+    "humidity": 44.391129032258064,
+    "precipitation": 0.4,
+    "wind_speed": 7.45806451612903
+  },
+  {
+    "city": "Pune",
+    "month": "2025-04",
+    "records": 720,
+    "temperature": 29.65819444444443,
+    "humidity": 54.52777777777778,
+    "precipitation": 10.899999999999995,
+    "wind_speed": 9.136527777777772
+  },
+  {
+    "city": "Pune",
+    "month": "2025-05",
+    "records": 744,
+    "temperature": 26.867338709677433,
+    "humidity": 78.13844086021506,
+    "precipitation": 406.10000000000053,
+    "wind_speed": 9.721236559139768
+  },
+  {
+    "city": "Pune",
+    "month": "2025-06",
+    "records": 720,
+    "temperature": 25.73791666666663,
+    "humidity": 88.52638888888889,
+    "precipitation": 386.4000000000008,
+    "wind_speed": 15.131249999999985
+  },
+  {
+    "city": "Pune",
+    "month": "2025-07",
+    "records": 744,
+    "temperature": 24.731451612903243,
+    "humidity": 91.39247311827957,
+    "precipitation": 250.29999999999922,
+    "wind_speed": 16.07016129032257
+  },
+  {
+    "city": "Pune",
+    "month": "2025-08",
+    "records": 744,
+    "temperature": 24.340188172043014,
+    "humidity": 91.64247311827957,
+    "precipitation": 327.10000000000036,
+    "wind_speed": 12.531451612903227
+  },
+  {
+    "city": "Pune",
+    "month": "2025-09",
+    "records": 720,
+    "temperature": 24.11833333333334,
+    "humidity": 91.56805555555556,
+    "precipitation": 305.4000000000001,
+    "wind_speed": 10.421388888888886
+  },
+  {
+    "city": "Pune",
+    "month": "2025-10",
+    "records": 744,
+    "temperature": 25.287096774193582,
+    "humidity": 80.8252688172043,
+    "precipitation": 122.59999999999992,
+    "wind_speed": 8.377822580645166
+  },
+  {
+    "city": "Pune",
+    "month": "2025-11",
+    "records": 720,
+    "temperature": 22.562083333333355,
+    "humidity": 68.35138888888889,
+    "precipitation": 8.599999999999996,
+    "wind_speed": 7.536527777777776
+  },
+  {
+    "city": "Pune",
+    "month": "2025-12",
+    "records": 744,
+    "temperature": 20.682392473118295,
+    "humidity": 54.255376344086024,
+    "precipitation": 0.0,
+    "wind_speed": 9.157661290322586
+  }
+]

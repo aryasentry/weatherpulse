@@ -1,0 +1,97 @@
+{
+  "status": "verified",
+  "engine": "Apache Hadoop 3.5.0 HDFS + Hadoop Streaming",
+  "version": "3.5.0",
+  "execution_mode": "HDFS NameNode/DataNode + MapReduce LocalJobRunner (no YARN)",
+  "dataset_sha256": "66fc7239f526fde047a86e15cae21984473cad1d6689d7db539715d207fcd4e7",
+  "raw_checksums": [
+    {
+      "name": "ahmedabad.csv",
+      "sha256": "0c69bd5f9ccd81602cd5a14781a2b4abb217c5939c3b7a2ec0b26f80614f5ca6"
+    },
+    {
+      "name": "bengaluru.csv",
+      "sha256": "5f554e39f4f5133ea4e2ab7ea9afd9c33bffb5bf23759fafe59ee55d4a6c3ee9"
+    },
+    {
+      "name": "chennai.csv",
+      "sha256": "ff4ac895b0b48a0d8572800f0e29daa4093edb7de15aa9bd14399f5884a86540"
+    },
+    {
+      "name": "delhi.csv",
+      "sha256": "eb6f418a9bd4b949d0b76d9542b67e4d7f757981b9f3ad7a4af0a05df547cc56"
+    },
+    {
+      "name": "hyderabad.csv",
+      "sha256": "37f37314867de702b01fb4a0f61ba039823cb216d42837ce007aca32f4ad3d8f"
+    },
+    {
+      "name": "jaipur.csv",
+      "sha256": "e8994812318a16ced856fe0a319c27317f44ba2e2fd58cdf92e83d2525f205a7"
+    },
+    {
+      "name": "kolkata.csv",
+      "sha256": "44ce3dd13f26951ff6baa8e45049e7887e4c0ed2ba55bf416bc6524dc0f8d778"
+    },
+    {
+      "name": "lucknow.csv",
+      "sha256": "ae064280e14b7a15e1ddb2c7fa3601f6476e8c99ae76fb4001ee32ebb58f7b1c"
+    },
+    {
+      "name": "mumbai.csv",
+      "sha256": "0670004c34b674485f900c80bfa5bf7365492cc842f6c6b4275a2dbf1ecd337a"
+    },
+    {
+      "name": "pune.csv",
+      "sha256": "47c1848b777492df2dc3cf536bfc27002706dbccb4d0f6368042b38d35eea306"
+    }
+  ],
+  "generated_at": "2026-10-08T16:05:14.057507+00:00",
+  "duration_seconds": 55.57,
+  "input_rows": 438240,
+  "counters": {
+    "input_rows": 438240,
+    "clean_rows": 438240,
+    "invalid_rows": 0
+  },
+  "clean_rows": 438240,
+  "city_count": 10,
+  "monthly_groups": 600,
+  "parity_passed": true,
+  "comparison": {
+    "passed": true,
+    "compared_groups": 600,
+    "expected_groups": 600,
+    "actual_groups": 600,
+    "tolerance": 1e-06,
+    "max_abs_error": 2.3305801732931286e-12,
+    "failures": []
+  },
+  "hdfs": {
+    "uri": "hdfs://127.0.0.1:19000",
+    "input_path": "/weather-data-analysis/raw/d208ba4590f43bcb",
+    "output_path": "/weather-data-analysis/results/20261008T160457-b2e088d2",
+    "namenode_url": "http://127.0.0.1:19870",
+    "replication": 1,
+    "csv_files": 10,
+    "listing": "Found 10 items\n-rw-r--r--   1 local-user supergroup    2602336 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/ahmedabad.csv\n-rw-r--r--   1 local-user supergroup    2607996 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/bengaluru.csv\n-rw-r--r--   1 local-user supergroup    2529133 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/chennai.csv\n-rw-r--r--   1 local-user supergroup    2379110 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/delhi.csv\n-rw-r--r--   1 local-user supergroup    2562050 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/hyderabad.csv\n-rw-r--r--   1 local-user supergroup    2467852 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/jaipur.csv\n-rw-r--r--   1 local-user supergroup    2512593 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/kolkata.csv\n-rw-r--r--   1 local-user supergroup    2511332 2026-10-08 21:34 /weather-data-analysis/raw/d208ba4590f43bcb/lucknow.csv\n-rw-r--r--   1 local-user supergroup    2433130 2026-10-08 21:35 /weather-data-analysis/raw/d208ba4590f43bcb/mumbai.csv\n-rw-r--r--   1 local-user supergroup    2383034 2026-10-08 21:35 /weather-data-analysis/raw/d208ba4590f43bcb/pune.csv\n"
+  },
+  "job": {
+    "id": "job_local949140952_0001",
+    "log_path": "data/processed/hadoop-job.log",
+    "runtime_log_path": "${PROJECT_ROOT}/.runtime/hadoop-state/logs/mapreduce-20261008T160457-b2e088d2.log",
+    "mapper": "backend/hadoop_streaming/mapper.py",
+    "reducer": "backend/hadoop_streaming/reducer.py"
+  },
+  "artifact": "data/processed/hadoop-monthly.json",
+  "download": {
+    "version": "3.5.0",
+    "archive_url": "https://dlcdn.apache.org/hadoop/common/hadoop-3.5.0/hadoop-3.5.0.tar.gz",
+    "checksum_url": "https://downloads.apache.org/hadoop/common/hadoop-3.5.0/hadoop-3.5.0.tar.gz.sha512",
+    "sha512": "04ab94496cc00c8b7a28d03f6308eff8d2a4e7f37a9da5e8e086e4d6fc990e7a94d661908f6a6136039536efb362614b8aecdef185b5fb8ed588f0b152c7aa16",
+    "installation": "${PROJECT_ROOT}/.runtime/hadoop-3.5.0"
+  },
+  "java_home": "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home",
+  "note": "Actual HDFS daemons and actual Hadoop Streaming map/shuffle/reduce executed on native macOS. LocalJobRunner computes on one machine; no YARN cluster or distributed speedup is claimed. Ports bind loopback; no SSH configuration or global package changes.",
+  "publication_redactions": "Local project paths and operating-system username replaced with placeholders; job IDs, counters, data checksums, HDFS paths and aggregate results are unchanged."
+}

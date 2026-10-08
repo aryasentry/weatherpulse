@@ -1,0 +1,90 @@
+{
+  "engine": "Python local map/shuffle/reduce demonstration",
+  "partitions": 4,
+  "mapped_pairs": 12,
+  "shuffle_keys": 10,
+  "rows": 438240,
+  "cities": [
+    {
+      "city": "Ahmedabad",
+      "records": 43824,
+      "temperature": 27.367817,
+      "humidity": 61.915754,
+      "precipitation": 3832.8,
+      "wind_speed": 9.475632
+    },
+    {
+      "city": "Bengaluru",
+      "records": 43824,
+      "temperature": 23.815019,
+      "humidity": 71.741352,
+      "precipitation": 5506.0,
+      "wind_speed": 10.862801
+    },
+    {
+      "city": "Chennai",
+      "records": 43824,
+      "temperature": 28.493577,
+      "humidity": 77.284981,
+      "precipitation": 6367.9,
+      "wind_speed": 12.923001
+    },
+    {
+      "city": "Delhi",
+      "records": 43824,
+      "temperature": 25.066096,
+      "humidity": 67.753742,
+      "precipitation": 4107.9,
+      "wind_speed": 8.855785
+    },
+    {
+      "city": "Hyderabad",
+      "records": 43824,
+      "temperature": 26.369533,
+      "humidity": 66.88488,
+      "precipitation": 5373.4,
+      "wind_speed": 10.937057
+    },
+    {
+      "city": "Jaipur",
+      "records": 43824,
+      "temperature": 24.913632,
+      "humidity": 59.794131,
+      "precipitation": 3264.3,
+      "wind_speed": 9.080604
+    },
+    {
+      "city": "Kolkata",
+      "records": 43824,
+      "temperature": 26.706631,
+      "humidity": 79.263029,
+      "precipitation": 8326.7,
+      "wind_speed": 8.966596
+    },
+    {
+      "city": "Lucknow",
+      "records": 43824,
+      "temperature": 25.525655,
+      "humidity": 69.766749,
+      "precipitation": 4833.8,
+      "wind_speed": 9.114602
+    },
+    {
+      "city": "Mumbai",
+      "records": 43824,
+      "temperature": 27.281124,
+      "humidity": 75.404778,
+      "precipitation": 10621.0,
+      "wind_speed": 11.199005
+    },
+    {
+      "city": "Pune",
+      "records": 43824,
+      "temperature": 25.132259,
+      "humidity": 71.696627,
+      "precipitation": 7271.4,
+      "wind_speed": 9.509419
+    }
+  ],
+  "note": "Runs on one computer; demonstrates partitioned associative aggregation. It is not Hadoop MapReduce or a distributed cluster."
+}
