@@ -94,6 +94,9 @@ def test_environment_avoids_whitespace_in_hadoop_shell_java_options(tmp_path,mon
     monkeypatch.setattr(hadoop_native,'ROOT',root)
     monkeypatch.setattr(hadoop_native,'HADOOP',install)
     monkeypatch.setattr(hadoop_native,'STATE',root/'.runtime'/'hadoop-state')
+    # This checks generated options, not a host Java installation. The base
+    # dashboard suite must run on Windows and macOS without optional JDKs.
+    monkeypatch.setattr(hadoop_native,'java_home',lambda value=None: str(tmp_path/'jdk17'))
     env=hadoop_native.environment()
     for key in ['HADOOP_HOME','HADOOP_CONF_DIR','HADOOP_LOG_DIR','HADOOP_PID_DIR']:
         assert ' ' not in env[key]
