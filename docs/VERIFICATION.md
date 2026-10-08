@@ -1,6 +1,18 @@
 # Verification evidence
 
-This file separates checks executed while constructing the project from future CI and platform checks.
+This file separates locally executed checks, completed hosted CI and unverified optional-engine/platform cases.
+
+## Completed native GitHub Actions matrix
+
+On **8 October 2026**, [run 37815484065](https://github.com/aryasentry/weatherpulse/actions/runs/37815484065) completed successfully for application commit **6563fa2**. All six jobs passed: Windows and macOS, each with Python **3.11, 3.12 and 3.13**. Subsequent documentation-only updates record this run without changing the tested application code.
+
+Each job checked out into a path containing spaces, created a fresh project environment through `setup.py`, ran the automated suite and executed `scripts/smoke_test.py` against the real bundled application. The smoke test verified ready health, HTML, analytics, filtered CSV, pipeline/replay, Hadoop Explorer, invalid-city rejection, interrupt shutdown and release of the listening port.
+
+The inspected Windows 3.12 log reported **54 passed, 1 skipped and 22 subtests passed**; the skipped check is explicitly POSIX-only TCP restart behavior. The inspected macOS 3.13 log reported **55 passed and 22 subtests passed**. Both reported the same upstream Starlette/AnyIO deprecation warning. All other matrix jobs also completed successfully.
+
+The Windows shutdown check initially exposed an unbounded process wait that delayed Python signal handling. The launcher now uses bounded waits; the same native Windows smoke test passed after the fix. The Hadoop environment-configuration unit test isolates Java discovery so the base suite needs no optional JDK.
+
+Hosted CI verifies the Python setup/launcher path on its runner operating systems. It does not verify a particular user's desktop, batch-file double-click interaction, browser rendering on Windows, or native Windows Spark/Hadoop execution. UI browser checks and real optional-engine runs were performed separately on the development Mac.
 
 ## Native launcher checks
 
@@ -8,7 +20,7 @@ This file separates checks executed while constructing the project from future C
 - Shell syntax for the macOS start/setup wrappers is checked with `bash -n`.
 - Official PyPI binary dependency resolution succeeded for Windows x64 / CPython 3.11 using pip's dry-run cross-platform resolver. This checks available compatible wheels, not native Windows execution.
 - `scripts/smoke_test.py` was executed successfully on macOS using the actual bundle and an unrelated working directory containing spaces. It read ready health, served bundled HTML, read real-data analytics, checked filtered CSV/pipeline/replay/invalid-city endpoints, interrupted the launcher, and verified the server no longer accepted connections.
-- The complete `python -m pytest -q` suite passed **55 tests and 22 subtests** on the development Python 3.13 environment after the Hadoop Explorer addition. One upstream Starlette/AnyIO deprecation warning was reported. Full runtime execution on Python 3.11/3.12 is left to the matrix workflow; version-range unit checks do not establish that execution.
+- The complete `python -m pytest -q` suite passed **55 tests and 22 subtests** on the development Python 3.13 environment after the Hadoop Explorer addition and again after the Windows shutdown fix. One upstream Starlette/AnyIO deprecation warning was reported. Python 3.11/3.12 runtime execution is now covered by the completed matrix above.
 
 The parent integration process records the final dataset, browser, extracted-bundle and full-suite results in its delivery report. Do not infer that those checks have passed from the presence of this document or smoke script.
 
@@ -32,7 +44,7 @@ The final browser check displayed the real Hadoop engine/job ID, counts, HDFS pa
 
 ## Platform limitations
 
-The development environment is macOS. Native Windows execution and the GitHub Actions workflow are unverified here unless separately recorded as executed. The CI workflow is a future verification specification, not a CI badge or success claim. Optional Spark and native Mac Hadoop have separate prerequisites and execution evidence; base-dashboard launch requires neither engine. Hadoop's LocalJobRunner executes on one Mac and does not establish YARN or a multi-machine deployment.
+The development environment is macOS; the completed hosted Windows/macOS matrix is recorded above. Optional Spark and native Mac Hadoop have separate prerequisites and execution evidence; base-dashboard launch requires neither engine. Native Windows Spark/Hadoop runtime execution remains unverified. Hadoop's LocalJobRunner executes on one Mac and does not establish YARN or a multi-machine deployment.
 
 Physical space-path testing of optional Hadoop failed with Apache shell/JVM/DataNode path handling errors. Hadoop is supported only when the whole project path has no whitespace; the scripts enforce that restriction. The release folder is named `Weather_Data_Analysis`. The base dashboard's successful space-path checks remain valid.
 

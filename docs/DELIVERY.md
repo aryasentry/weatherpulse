@@ -48,7 +48,7 @@ The flow tested was: load the actual app, change city and dates, inspect analyti
 
 ## Limits and syllabus fit
 
-Actual Windows setup, startup, shutdown, Spark and Hadoop execution were **not run on a Windows host**. Binary dependency resolution, native scripts and the future CI matrix support base-dashboard portability but are not substituted for Windows runtime evidence. Python 3.11/3.12 runtime execution is likewise not claimed from the Python 3.13 run.
+The base dashboard now has actual hosted Windows and macOS setup/startup/shutdown evidence for Python 3.11–3.13: all six jobs in [run 37815484065](https://github.com/aryasentry/weatherpulse/actions/runs/37815484065) passed at application commit `6563fa2`. See `VERIFICATION.md` for details. Native Windows Spark/Hadoop, desktop double-click interaction and execution on a user's particular PC remain unverified.
 
 Optional native Hadoop requires the entire project path to contain no whitespace. Physical space-path Hadoop testing exposed upstream shell/JVM/DataNode path errors; the scripts therefore reject that configuration with rename/move instructions. The v3 ZIP's top-level folder is `Weather_Data_Analysis`, and its parent path must also avoid whitespace. This limitation is specific to optional Hadoop: the base Python dashboard remains tested in paths containing spaces.
 

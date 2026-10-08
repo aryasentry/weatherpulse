@@ -4,6 +4,8 @@ This guide runs WeatherPulse directly on Windows. The dashboard uses Python to s
 
 Use a Windows 10/11 **x64** computer and **Python 3.11, 3.12 or 3.13, 64-bit**. Python **3.12** is the recommended choice for this project; the scripts reject versions outside 3.11–3.13. This is the project's supported range, rather than a recommendation to install whichever Python version is newest. Native Windows setup is covered by the repository's CI workflow; consult its actual run results before treating Windows execution as verified on your machine.
 
+**Verified CI:** On 8 October 2026, all three Python versions passed fresh setup, analytical tests and real application startup/shutdown on GitHub-hosted Windows runners. The matching macOS jobs also passed. [See the successful run](https://github.com/aryasentry/weatherpulse/actions/runs/37815484065). This checks the Python setup/launcher path; it is not a claim that your particular PC, Finder/File Explorer interaction or optional Windows Hadoop installation was tested.
+
 ## 1. Get the complete project
 
 Choose either method. Git is optional.
@@ -162,7 +164,7 @@ The launcher specifically requires `frontend/out/index.html`, `backend/main.py`,
 
 ## Optional: edit and rebuild the frontend
 
-Normal dashboard use needs no Node.js. For UI development, install **Node.js 22 or newer** using the [official Node.js Windows download](https://nodejs.org/en/download), then reopen PowerShell. This project pins Next.js **16.4.0**, React **19.3.0**, Recharts **3.10.1** and TypeScript **7.0.2** in `frontend/package.json`; use the existing lock file:
+Normal dashboard use needs no Node.js. For UI development, use **Node.js 24**, the major version used for the delivered build, from the [official Node.js Windows download](https://nodejs.org/en/download), then reopen PowerShell. This project pins Next.js **16.4.0**, React **19.3.0**, Recharts **3.10.1** and TypeScript **7.0.2** in `frontend/package.json`; use the existing lock file:
 
 ```powershell
 node --version

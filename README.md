@@ -117,7 +117,7 @@ Hive, Pig, Sqoop, HBase, ZooKeeper and Mahout remain **documented extensions**. 
 
 ## Validation and structure
 
-`tests/` contains analytics and launcher checks. `.github/workflows/native.yml` defines future Windows/macOS CI with Python 3.11–3.13, including an actual startup smoke test. The presence of that workflow is not evidence that it has run. See [verification notes](docs/VERIFICATION.md) for the executed checks and known limits.
+`tests/` contains analytics and launcher checks. All six Windows/macOS CI jobs with Python 3.11–3.13 [passed on 8 October 2026](https://github.com/aryasentry/weatherpulse/actions/runs/37815484065), including fresh dependency setup and actual application startup/shutdown. See [verification notes](docs/VERIFICATION.md) for the tested commit, platform-specific counts and optional-engine limits.
 
 | Path | Purpose |
 |---|---|
