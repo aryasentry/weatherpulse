@@ -155,7 +155,14 @@ def main(argv=None):
                     print("Open the address above in your browser.", flush=True)
             except webbrowser.Error:
                 print("Open the address above in your browser.", flush=True)
-        return process.wait()
+        # An unbounded Windows process wait can defer Python's SIGBREAK handler
+        # indefinitely. Return to the interpreter regularly so Ctrl+C/Break
+        # reaches the cleanup below while the API process is still running.
+        while True:
+            try:
+                return process.wait(timeout=0.25)
+            except subprocess.TimeoutExpired:
+                continue
     except KeyboardInterrupt:
         print("\nStopping Weather Data Analysis…", flush=True)
         return 0
